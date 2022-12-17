@@ -1,0 +1,26 @@
+{
+  "name": "warthunder-news",
+  "version": "0.0.1",
+  "description": "A discord webhook solution to get all devblogs from warthunders new page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luke-6723/Warthunder-News.git"
+  },
+  "keywords": [
+    "War",
+    "Thunder"
+  ],
+  "author": "Luke-6723",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luke-6723/Warthunder-News/issues"
+  },
+  "homepage": "https://github.com/Luke-6723/Warthunder-News#readme",
+  "dependencies": {
+    "puppeteer": "^19.4.1"
+  }
+}
