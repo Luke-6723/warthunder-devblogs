@@ -10,9 +10,16 @@ const urls = {
   devblogs: 'https://warthunder.com/en/news/?tags=Development',
   events: 'https://warthunder.com/en/news/?tags=Event',
   changelogs: 'https://warthunder.com/en/game/changelog/'
-};
+}
 
 const widgetSelector = '.showcase__item'
+
+let storeUpdates = {}
+try {
+  storeUpdates = require('./warthunder.json')
+} catch {
+  console.log('Error importing stored updates. Leaving object empty...')
+}
 
 const updates = {
   devblogs: {},
@@ -28,7 +35,7 @@ function handlePosts (type, page) {
     const posts = (await page.$$(widgetSelector)).splice(0, 3)
     posts.forEach(async (p, index) => {
       // Create devblog id if it doesnt exist already
-      if(!updates[type][index]) updates[type][index] = {}
+      if (!updates[type][index]) updates[type][index] = {}
       // Get link
       const linkElement = await p.$('.widget__link')
       updates[type][index].link = await (await linkElement.getProperty('href')).jsonValue()
@@ -41,7 +48,7 @@ function handlePosts (type, page) {
       // Santitize title
       updates[type][index].title = updates[type][index].title.replace(/\\n/g, '').trim()
 
-      if(index === 2) {
+      if (index === 2) {
         resolve()
       }
     })
@@ -67,37 +74,37 @@ function handlePosts (type, page) {
    * Development Blogs
   */
 
- await page.goto(urls.devblogs)
- await page.waitForSelector(widgetSelector, {
-   timeout: 5000
- })
+  await page.goto(urls.devblogs)
+  await page.waitForSelector(widgetSelector, {
+    timeout: 5000
+  })
 
- await handlePosts('devblogs', page)
+  await handlePosts('devblogs', page)
 
- /**
-   * Changelogs
-  */
+  /**
+    * Changelogs
+   */
 
- await page.goto(urls.changelogs)
- await page.waitForSelector(widgetSelector, {
-   timeout: 5000
- })
+  await page.goto(urls.changelogs)
+  await page.waitForSelector(widgetSelector, {
+    timeout: 5000
+  })
 
- await handlePosts('changelogs', page)
+  await handlePosts('changelogs', page)
 
- /**
-  * Events
-  */
+  /**
+   * Events
+   */
 
- await page.goto(urls.events)
- await page.waitForSelector(widgetSelector, {
-   timeout: 5000
- })
+  await page.goto(urls.events)
+  await page.waitForSelector(widgetSelector, {
+    timeout: 5000
+  })
 
- await handlePosts('events', page)
+  await handlePosts('events', page)
 
- writeFile('./warthunder.json', JSON.stringify(updates, null, 2))
- browser.close()
- console.timeEnd('Warthunder News Fetcher')
+  writeFile('./warthunder.json', JSON.stringify(updates, null, 2))
+  browser.close()
+  console.timeEnd('Warthunder News Fetcher')
 
 })()
