@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Luke-6723/Warthunder-News#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "puppeteer": "^19.4.1"
   }
 }
