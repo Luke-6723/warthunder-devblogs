@@ -51,7 +51,7 @@ function handlePosts (type, page) {
 (async () => {
   // Start browser
   const browser = await puppeteer.launch({
-    headless: false
+    headless: true
   })
   // Load Devblogs
   const page = await browser.newPage()
