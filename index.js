@@ -1,3 +1,4 @@
+const { default: axios } = require("axios")
 const { writeFile } = require("fs/promises")
 const puppeteer = require("puppeteer")
 const warthunderLogo = 'https://raw.githubusercontent.com/Luke-6723/warthunder-devblogs/master/warthunder.png'
@@ -9,14 +10,14 @@ console.time('Warthunder News Fetcher')
  * Webhook URL is discord url
  */
 let webhookURL = null
-if(process.env.NODE_ENV === 'local') {
+if (process.env.NODE_ENV === 'local') {
   require('dotenv').config()
   webhookURL = process.env.WEBHOOK_URL
 } else {
   webhookURL = process.env.WEBHOOK_URL
 }
 
-if(!webhookURL) throw Error('Missing webhook URL')
+if (!webhookURL) throw Error('Missing webhook URL')
 
 /**
  * Import stored updates if any.
@@ -67,6 +68,11 @@ function handlePosts (type, page) {
       updates[type][index].title = await (await titleElement.getProperty('textContent')).jsonValue()
       // Santitize title
       updates[type][index].title = updates[type][index].title.replace(/\\n/g, '').trim()
+      // Get description
+      const descElement = await p.$('.widget__content .widget__comment')
+      updates[type][index].description = await (await descElement.getProperty('textContent')).jsonValue()
+      // Santitize title
+      updates[type][index].description = updates[type][index].description.replace(/\\n/g, '').trim()
 
       if (index === 2) {
         resolve()
@@ -101,8 +107,33 @@ function handlePosts (type, page) {
 
   await handlePosts('devblogs', page)
 
-  if(storeUpdates.devblogs[0].title !== updates.devblogs[0].title) {
+  if (storeUpdates?.devblogs[0]?.title !== updates?.devblogs[0]?.title) {
     console.log('Update on DevBlogs')
+
+    axios.post(webhookURL, {
+      embeds: [{
+        author: {
+          name: 'War Thunder News'
+        },
+        url: updates?.devblogs[0]?.link,
+        title: `[Dev Blog] ${updates?.devblogs[0]?.title}`,
+        description: `
+${updates?.devblogs[0]?.description}
+
+[Link to update](${updates?.devblogs[0]?.link})`,
+        color: embedColor,
+        thumbnail: {
+          url: warthunderLogo
+        },
+        image: {
+          url: updates?.devblogs[0]?.banner
+        }
+      }]
+    }, {
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    })
   }
 
   /**
@@ -116,13 +147,61 @@ function handlePosts (type, page) {
 
   await handlePosts('changelogs', page)
 
+  const embeds = []
   // Major update check
-  if(storeUpdates.changelogs[0].title !== updates.changelogs[0].title) {
+  if (storeUpdates?.changelogs[0]?.title !== updates?.changelogs[0]?.title) {
     console.log('Update on Changelogs [Major Update]')
+    embeds.push({
+      author: {
+        name: 'War Thunder News'
+      },
+      url: updates?.changelogs[0]?.link,
+      title: `[Major] ${updates?.changelogs[0]?.title}`,
+      description: `
+${updates?.changelogs[0]?.description}
+
+[Link to update](${updates?.changelogs[0]?.link})`,
+      color: embedColor,
+      thumbnail: {
+        url: warthunderLogo
+      },
+      image: {
+        url: updates?.changelogs[0]?.banner
+      }
+    })
   }
 
-  if(storeUpdates.changelogs[1].title !== updates.changelogs[1].title) {
+  if (storeUpdates?.changelogs[1]?.title !== updates?.changelogs[1]?.title) {
     console.log('Update on Changelogs [Minor Update]')
+
+    embeds.push({
+      author: {
+        name: 'War Thunder News'
+      },
+      url: updates?.changelogs[1]?.link,
+      title: `[Minor] ${updates?.changelogs[1]?.title}`,
+      description: `
+${updates?.changelogs[1]?.description}
+
+[Link to update](${updates?.changelogs[1]?.link})`,
+      color: embedColor,
+      thumbnail: {
+        url: warthunderLogo
+      },
+      image: {
+        url: updates?.changelogs[1]?.banner
+      }
+    })
+  }
+  
+  if(embeds.length > 0) {
+    axios.post(webhookURL, {
+      embeds: embeds
+    }, {
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    })
   }
 
   /**
@@ -136,12 +215,37 @@ function handlePosts (type, page) {
 
   await handlePosts('events', page)
 
-  if(storeUpdates.events[0].title !== updates.events[0].title) {
+  if (storeUpdates?.events[0]?.title !== updates?.events[0]?.title) {
     console.log('Update on events')
+
+    axios.post(webhookURL, {
+      embeds: [{
+        author: {
+          name: 'War Thunder News'
+        },
+        url: updates?.events[0]?.link,
+        title: `[Event] ${updates?.events[0]?.title}`,
+        description: `
+${updates?.events[0]?.description}
+
+[Link to update](${updates?.events[0]?.link})`,
+        color: embedColor,
+        thumbnail: {
+          url: warthunderLogo
+        },
+        image: {
+          url: updates?.events[0]?.banner
+        }
+      }]
+    }, {
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    })
   }
 
   // Update json file and close browser
-  // writeFile('./warthunder.json', JSON.stringify(updates, null, 2))
+  writeFile('./warthunder.json', JSON.stringify(updates, null, 2))
   browser.close()
   console.timeEnd('Warthunder News Fetcher')
 

@@ -3,51 +3,60 @@
     "0": {
       "link": "https://warthunder.com/en/news/8024-development-winter-event-vehicles-tornado-ids-marineflieger-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_tornado_idf_de_mfg_9153bf5cb71900bb1b3cb31832522f13.jpg",
-      "title": "Winter event vehicles: Tornado IDS Marineflieger"
+      "title": "Winter event vehicles: Tornado IDS Marineflieger",
+      "description": "German top-tier Tornado IDS Marineflieger jet fighter is the main aviation prize of the upcoming winter special event in War Thunder."
     },
     "1": {
       "link": "https://warthunder.com/en/news/8020-development-duca-degli-abruzzi-ultimate-freelancer-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_cruiser_garibaldi_class_abruzzi_c0b177dd9b65de96cc25da8a056a04b3.jpg",
-      "title": "Duca degli Abruzzi: Ultimate Freelancer"
+      "title": "Duca degli Abruzzi: Ultimate Freelancer",
+      "description": "Duca degli Abruzzi is the lead ship of the final Italian ‘Condottieri’ type cruiser class built for the Regia Marina in the years leading up to the outbreak of WWII. Arriving as part of the next major War Thunder update - “Apex Predators”, Duca degli Abruzzi will soon reinforce the Italian naval tree with its most advanced light cruiser design of the era!"
     },
     "2": {
       "link": "https://warthunder.com/en/news/8019-development-apex-predators-update-new-locations-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Locations/_thumbs/520x/anons_shot_20221214_231056_hires_55e84b917b7e0d152964aec7a54d27f0.jpg",
-      "title": "Apex Predators Update: New Locations"
+      "title": "Apex Predators Update: New Locations",
+      "description": "Introducing two new locations for mixed battles that will be added to the game in the upcoming major update. Meet the industrial area of the mine complex in the location \"Gold Quarry\" and the winter version of your favorite \"Poland\"!"
     }
   },
   "events": {
     "0": {
       "link": "https://warthunder.com/en/news/8021-event-winter-quest-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/anons_378_winter_marathon_2023_0058456500b08306ad4e9415dd76fd1f.jpg",
-      "title": "Winter Quest"
+      "title": "Winter Quest",
+      "description": "The winter has arrived - it’s time to warm up in the battles from the Winter Quest in War Thunder! To brighten up the long, dark evenings we have prepared many prizes that you can get for any of your usual activities, because you just need to get points to complete the tasks!"
     },
     "1": {
       "link": "https://warthunder.com/en/news/8018-event-pandora-s-box-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/378_df844f13403d91128abebdefc09f132a.jpg",
-      "title": "“Pandora’s Box”"
+      "title": "“Pandora’s Box”",
+      "description": "Join the weekend “Pandora’s Box” special event and get unique titles and trophies with boosters, universal back-ups or Silver Lions!"
     },
     "2": {
       "link": "https://warthunder.com/en/news/7981-event-pages-of-history-december-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/378%D0%A5213_3e1fd9e9a6e040d2fb6e73347ee4bdb4.jpg",
-      "title": "Pages of History (December)"
+      "title": "Pages of History (December)",
+      "description": "For the whole month, you will have 8 tasks available to you one by one. Completion of each task will award you with a trophy containing a reward, while completing all tasks will award you with a unique in-game player icon."
     }
   },
   "changelogs": {
     "0": {
       "link": "https://warthunder.com/en/game/changelog/current/1427",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/anons_378_fire_and_ice_finnish_aircrafts_eng_cc691058b80c1f6a60254577e356e8a5.jpg",
-      "title": "War Thunder \"Fire and Ice\" -  Changelog"
+      "title": "War Thunder \"Fire and Ice\" -  Changelog",
+      "description": "New, Finnish branches for the Swedish tech tree - both Aircraft and Ground vehicles, including the Leopard 2A6! More than 50 new and updated vehicles with the long awaited American M1A2 SEP with the TUSK modification, SPAA ТОR-М1 missile and the iconic Fusō Japanese battleship! Apart from all this, two new locations: “Arctic” and “Rocky Canyon” and as always, a long list of bug fixes and smaller changes! Prepare yourself for the “Fire and Ice” update!"
     },
     "1": {
       "link": "https://warthunder.com/en/game/changelog/current/1443",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/La5_378_ae1db439dd0927542c42bcf819bfa1cc.jpg",
-      "title": "Update  2.21.1.109"
+      "title": "Update  2.21.1.109",
+      "description": "Numerous bug fixes"
     },
     "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1442",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Helicopter/ah1_anons_5274be3e4901b8afbc2eb931b13666bb.jpg",
-      "title": "Update 2.21.1.101"
+      "title": "Update 2.21.1.101",
+      "description": "A bug that could lead to FPS dropping to 0, freezes and lag in aircraft SB and helicopter PvE has been fixed."
     }
   }
 }
