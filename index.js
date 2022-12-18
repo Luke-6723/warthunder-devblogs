@@ -1,5 +1,7 @@
 const { writeFile } = require("fs/promises")
 const puppeteer = require("puppeteer")
+const warthunderLogo = 'https://raw.githubusercontent.com/Luke-6723/warthunder-devblogs/master/warthunder.png'
+const embedColor = 0xE10000
 console.time('Warthunder News Fetcher')
 
 /**
@@ -99,6 +101,10 @@ function handlePosts (type, page) {
 
   await handlePosts('devblogs', page)
 
+  if(storeUpdates.devblogs[0].title !== updates.devblogs[0].title) {
+    console.log('Update on DevBlogs')
+  }
+
   /**
     * Changelogs
    */
@@ -109,6 +115,15 @@ function handlePosts (type, page) {
   })
 
   await handlePosts('changelogs', page)
+
+  // Major update check
+  if(storeUpdates.changelogs[0].title !== updates.changelogs[0].title) {
+    console.log('Update on Changelogs [Major Update]')
+  }
+
+  if(storeUpdates.changelogs[1].title !== updates.changelogs[1].title) {
+    console.log('Update on Changelogs [Minor Update]')
+  }
 
   /**
    * Events
@@ -121,7 +136,12 @@ function handlePosts (type, page) {
 
   await handlePosts('events', page)
 
-  writeFile('./warthunder.json', JSON.stringify(updates, null, 2))
+  if(storeUpdates.events[0].title !== updates.events[0].title) {
+    console.log('Update on events')
+  }
+
+  // Update json file and close browser
+  // writeFile('./warthunder.json', JSON.stringify(updates, null, 2))
   browser.close()
   console.timeEnd('Warthunder News Fetcher')
 
