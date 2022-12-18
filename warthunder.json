@@ -1,0 +1,53 @@
+{
+  "devblogs": {
+    "0": {
+      "link": "https://warthunder.com/en/news/8024-development-winter-event-vehicles-tornado-ids-marineflieger-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_tornado_idf_de_mfg_9153bf5cb71900bb1b3cb31832522f13.jpg",
+      "title": "Winter event vehicles: Tornado IDS Marineflieger"
+    },
+    "1": {
+      "link": "https://warthunder.com/en/news/8020-development-duca-degli-abruzzi-ultimate-freelancer-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_cruiser_garibaldi_class_abruzzi_c0b177dd9b65de96cc25da8a056a04b3.jpg",
+      "title": "Duca degli Abruzzi: Ultimate Freelancer"
+    },
+    "2": {
+      "link": "https://warthunder.com/en/news/8019-development-apex-predators-update-new-locations-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Locations/_thumbs/520x/anons_shot_20221214_231056_hires_55e84b917b7e0d152964aec7a54d27f0.jpg",
+      "title": "Apex Predators Update: New Locations"
+    }
+  },
+  "events": {
+    "0": {
+      "link": "https://warthunder.com/en/news/8021-event-winter-quest-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/anons_378_winter_marathon_2023_0058456500b08306ad4e9415dd76fd1f.jpg",
+      "title": "Winter Quest"
+    },
+    "1": {
+      "link": "https://warthunder.com/en/news/8018-event-pandora-s-box-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/378_df844f13403d91128abebdefc09f132a.jpg",
+      "title": "“Pandora’s Box”"
+    },
+    "2": {
+      "link": "https://warthunder.com/en/news/7981-event-pages-of-history-december-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/378%D0%A5213_3e1fd9e9a6e040d2fb6e73347ee4bdb4.jpg",
+      "title": "Pages of History (December)"
+    }
+  },
+  "changelogs": {
+    "0": {
+      "link": "https://warthunder.com/en/game/changelog/current/1427",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/anons_378_fire_and_ice_finnish_aircrafts_eng_cc691058b80c1f6a60254577e356e8a5.jpg",
+      "title": "War Thunder \"Fire and Ice\" -  Changelog"
+    },
+    "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1443",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/La5_378_ae1db439dd0927542c42bcf819bfa1cc.jpg",
+      "title": "Update  2.21.1.109"
+    },
+    "2": {
+      "link": "https://warthunder.com/en/game/changelog/current/1442",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Helicopter/ah1_anons_5274be3e4901b8afbc2eb931b13666bb.jpg",
+      "title": "Update 2.21.1.101"
+    }
+  }
+}
