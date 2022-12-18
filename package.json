@@ -4,7 +4,7 @@
   "description": "A discord webhook solution to get all devblogs from warthunders new page.",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "NODE_ENV=local node index.js"
   },
   "repository": {
     "type": "git",
