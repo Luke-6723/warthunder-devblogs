@@ -1,6 +1,31 @@
 const { writeFile } = require("fs/promises")
 const puppeteer = require("puppeteer")
 console.time('Warthunder News Fetcher')
+
+/**
+ * Get environment variables based on NODE_ENV
+ * Webhook URL is discord url
+ */
+let webhookURL = null
+if(process.env.NODE_ENV === 'local') {
+  require('dotenv').config()
+  webhookURL = process.env.WEBHOOK_URL
+} else {
+  webhookURL = process.env.WEBHOOK_URL
+}
+
+if(!webhookURL) throw Error('Missing webhook URL')
+
+/**
+ * Import stored updates if any.
+ */
+let storeUpdates = {}
+try {
+  storeUpdates = require('./warthunder.json')
+} catch {
+  console.log('Error importing stored updates. Leaving object empty...')
+}
+
 /**
  * Dev Blogs: https://warthunder.com/en/news/?tags=Development
  * Events: https://warthunder.com/en/news/?tags=Event 
@@ -13,13 +38,6 @@ const urls = {
 }
 
 const widgetSelector = '.showcase__item'
-
-let storeUpdates = {}
-try {
-  storeUpdates = require('./warthunder.json')
-} catch {
-  console.log('Error importing stored updates. Leaving object empty...')
-}
 
 const updates = {
   devblogs: {},
