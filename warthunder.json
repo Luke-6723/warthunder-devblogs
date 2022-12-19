@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8030-development-news-for-the-sea-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022/12_December/Sea/_thumbs/520x/378_e1c234f029f944a8f8bd4a59eef713fc.jpg",
+      "title": "News for the sea!",
+      "description": "Post-war uniforms, a total rehashing of crew voice-overs, as well as a new pack of WWII AI aircraft carriers for air battle modes!  Only good news is coming from the sea in the Apex Predators update!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8024-development-winter-event-vehicles-tornado-ids-marineflieger-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_tornado_idf_de_mfg_9153bf5cb71900bb1b3cb31832522f13.jpg",
       "title": "Winter event vehicles: Tornado IDS Marineflieger",
       "description": "German top-tier Tornado IDS Marineflieger jet fighter is the main aviation prize of the upcoming winter special event in War Thunder."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8020-development-duca-degli-abruzzi-ultimate-freelancer-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_cruiser_garibaldi_class_abruzzi_c0b177dd9b65de96cc25da8a056a04b3.jpg",
       "title": "Duca degli Abruzzi: Ultimate Freelancer",
       "description": "Duca degli Abruzzi is the lead ship of the final Italian ‘Condottieri’ type cruiser class built for the Regia Marina in the years leading up to the outbreak of WWII. Arriving as part of the next major War Thunder update - “Apex Predators”, Duca degli Abruzzi will soon reinforce the Italian naval tree with its most advanced light cruiser design of the era!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8019-development-apex-predators-update-new-locations-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Locations/_thumbs/520x/anons_shot_20221214_231056_hires_55e84b917b7e0d152964aec7a54d27f0.jpg",
-      "title": "Apex Predators Update: New Locations",
-      "description": "Introducing two new locations for mixed battles that will be added to the game in the upcoming major update. Meet the industrial area of the mine complex in the location \"Gold Quarry\" and the winter version of your favorite \"Poland\"!"
     }
   },
   "events": {
