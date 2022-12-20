@@ -41,22 +41,22 @@
   },
   "changelogs": {
     "0": {
+      "link": "https://warthunder.com/en/game/changelog/current/1444",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/anons_378_apex_predators_logo_796a7a7940db7fb4d36a221b41151fec.jpg",
+      "title": "War Thunder \"Apex Predators\" - Changelog",
+      "description": "Brand new Rank VIII 4th generation aircraft with the iconic trio of F-16, MiG-29 and Tornado! Selection of over 40 new and updated models of aircraft, ground vehicles and navy. New models for ship crew with reworked voice overs for navy events, drop-tanks mechanics, two new locations and as always, a long list of bug fixes and smaller updates and changes! Prepare yourself, Apex Predators have arrived at War Thunder!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/game/changelog/current/1443",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/La5_378_ae1db439dd0927542c42bcf819bfa1cc.jpg",
       "title": "Update  2.21.1.109",
       "description": "Numerous bug fixes"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1442",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Helicopter/ah1_anons_5274be3e4901b8afbc2eb931b13666bb.jpg",
       "title": "Update 2.21.1.101",
       "description": "A bug that could lead to FPS dropping to 0, freezes and lag in aircraft SB and helicopter PvE has been fixed."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1441",
-      "banner": "https://static.warthunder.com/upload/image//!%20new/Anons_378/Anons_zsu37_be596d3185c2cb3e00c31274330464cc.jpg",
-      "title": "Update  2.21.1.99  (2.21.1.98 - Xbox)",
-      "description": "List of bug fixes for \"It’s fixed! №68\""
     }
   }
 }
