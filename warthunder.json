@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8033-development-char-2bis-the-beast-of-champagne-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_char_2c_bis_674c52dbb755d12da82f13ea5ffb0932.jpg",
+      "title": "Char 2bis: the Beast of Champagne",
+      "description": "Char 2C is a superheavy French interwar tank, equipped with 155-mm howitzer. The apex predator of the low ranks!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8025-development-winter-event-vehicles-lat%C3%A9-298-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_late_298d_2f0b7d795a1deb9b5bdeedee4af56423.jpg",
       "title": "Winter event vehicles: Laté 298",
       "description": "A French Premium Hydroplane with a deadly torpedo is one of the prize in the upcoming winter special event in War Thunder."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8011-development-squadron-vehicles-sea-harrier-frs-1-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_harrier_frs1_40f62fdafe145bcd82d2ea7de4a63058.jpg",
       "title": "Squadron vehicles: Sea Harrier FRS.1",
       "description": "The Sea Harrier is a later modification of the British V/STOL Harrier jet fighter that entered service with the Royal Navy in the late 1960s. Soon, the Sea Harrier FRS.1 will come to War Thunder as a new squadron vehicle, available with the release of the “Apex Predators” major update."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8030-development-news-for-the-sea-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022/12_December/Sea/_thumbs/520x/378_e1c234f029f944a8f8bd4a59eef713fc.jpg",
-      "title": "News for the sea!",
-      "description": "Post-war uniforms, a total rehashing of crew voice-overs, as well as a new pack of WWII AI aircraft carriers for air battle modes!  Only good news is coming from the sea in the Apex Predators update!"
     }
   },
   "events": {
