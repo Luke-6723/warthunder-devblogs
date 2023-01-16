@@ -21,16 +21,16 @@
   },
   "events": {
     "0": {
-      "link": "https://warthunder.com/en/news/8021-event-winter-quest-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/anons_378_winter_marathon_2023_0058456500b08306ad4e9415dd76fd1f.jpg",
-      "title": "Winter Quest",
-      "description": "The winter has arrived - it’s time to warm up in the battles from the Winter Quest in War Thunder! To brighten up the long, dark evenings we have prepared many prizes that you can get for any of your usual activities, because you just need to get points to complete the tasks!"
-    },
-    "1": {
       "link": "https://warthunder.com/en/news/8037-event-pages-of-history-january-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/378%D0%A5213_34dddac391c19e6caebb62d2c946779e.jpg",
       "title": "Pages of History (January)",
       "description": "For the whole month, you will have 8 tasks available to you one by one. Completion of each task will award you with a trophy containing a reward, while completing all tasks will award you with a unique in-game player icon"
+    },
+    "1": {
+      "link": "https://warthunder.com/en/news/8021-event-winter-quest-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/anons_378_winter_marathon_2023_0058456500b08306ad4e9415dd76fd1f.jpg",
+      "title": "Winter Quest",
+      "description": "The winter has arrived - it’s time to warm up in the battles from the Winter Quest in War Thunder! To brighten up the long, dark evenings we have prepared many prizes that you can get for any of your usual activities, because you just need to get points to complete the tasks!"
     },
     "2": {
       "link": "https://warthunder.com/en/news/8018-event-pandora-s-box-en",
