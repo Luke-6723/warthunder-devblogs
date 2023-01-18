@@ -47,16 +47,16 @@
       "description": "Brand new Rank VIII 4th generation aircraft with the iconic trio of F-16, MiG-29 and Tornado! Selection of over 40 new and updated models of aircraft, ground vehicles and navy. New models for ship crew with reworked voice overs for navy events, drop-tanks mechanics, two new locations and as always, a long list of bug fixes and smaller updates and changes! Prepare yourself, Apex Predators have arrived at War Thunder!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1452",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/103_378_3a3e94f59cd886de39ac6b3bb1e4c519.jpg",
+      "title": "Update  2.23.0.67",
+      "description": "Landscape LOD has been corrected in the aircraft optics. Now, a pilot will see the detailed picture of the landscape in the targeting optics as seen in helicopters previously. (...)"
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1451",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Helicopter/Z10_Anons_2b7233a57aeb6c992e49a3fbb1f46b9a.jpg",
       "title": "Update  2.23.0.51 (2.23.0.48 - Xbox, Playstation)",
       "description": "List of bug fixes for \"It’s fixed! №70\""
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1450",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/ship3_TW_Anons_ce708b3d4513c2ca41fefb772c4da9d3.png",
-      "title": "Update 2.23.0.42",
-      "description": "Missing detonation in the shell and charge cellars of naval vessels has been fixed. (...)"
     }
   }
 }
