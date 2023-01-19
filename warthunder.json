@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8062-development-battle-pass-vehicles-bf-109-f-4-italy-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_bf_109f_4_hungary__8791ff503b716db38cf97f6f4c2c43f1.jpg",
+      "title": "Battle Pass vehicles: Bf 109 F-4 (Italy)",
+      "description": "Meet the aircraft prize of the upcoming season! A Premium winter version of the Bf 109 F-4 coated with a livery of the most effective Hungarian ace Dezső Szentgyörgyi!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8061-development-battle-pass-vehicles-project-183-bm-21-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_pr_183_egypt_bm_21_bc706c437546eebf7ef0da354bf3fe40.jpg",
       "title": "Battle Pass vehicles: Project 183 BM-21",
       "description": "The Cold war Soviet torpedo boat gets into a gun frenzy with a  BM-21 \"Grad\" multiple launch rocket system mounted instead of the rear turret!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8033-development-char-2bis-the-beast-of-champagne-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_char_2c_bis_674c52dbb755d12da82f13ea5ffb0932.jpg",
       "title": "Char 2bis: the Beast of Champagne",
       "description": "Char 2C is a superheavy French interwar tank, equipped with 155-mm howitzer. The apex predator of the low ranks!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8025-development-winter-event-vehicles-lat%C3%A9-298-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_late_298d_2f0b7d795a1deb9b5bdeedee4af56423.jpg",
-      "title": "Winter event vehicles: Laté 298",
-      "description": "A French Premium Hydroplane with a deadly torpedo is one of the prize in the upcoming winter special event in War Thunder."
     }
   },
   "events": {
