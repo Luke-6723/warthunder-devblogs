@@ -47,16 +47,16 @@
       "description": "Brand new Rank VIII 4th generation aircraft with the iconic trio of F-16, MiG-29 and Tornado! Selection of over 40 new and updated models of aircraft, ground vehicles and navy. New models for ship crew with reworked voice overs for navy events, drop-tanks mechanics, two new locations and as always, a long list of bug fixes and smaller updates and changes! Prepare yourself, Apex Predators have arrived at War Thunder!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1456",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/fairmile_d_anons_83127127acab854eb926930d872fa4b2.jpg",
+      "title": "Update  2.23.0.99",
+      "description": "List of bug fixes for \"It’s fixed! №71\""
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1455",
       "banner": "https://static.warthunder.com/upload/image//!%20new/Anons_378/BritishAnons_2abb277e30cd5d150d8ca9ec828d9fae.jpg",
       "title": "Server Update 26.01.2023(BR)",
       "description": "BR changes come into effect."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1454",
-      "banner": "https://static.warthunder.com/upload/image//!%20new/Anons_378/harrier_anons_5eb749212316955ffbe5b48fff084de0.jpg",
-      "title": "Update 2.23.0.82 (2.23.0.78 - Xbox, Playstation)",
-      "description": "A bug has been fixed that prevented the gun elevation mechanism from staying in place while in the free view camera. (...)"
     }
   }
 }
