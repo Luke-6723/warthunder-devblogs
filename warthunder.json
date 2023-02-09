@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8083-development-update-for-the-war-thunder-cdk-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/france_ground_newmodificationresearch378X213_0b4a484ae5ab007c407378f78634fabd.jpg",
+      "title": "Update for the War Thunder CDK!",
+      "description": "Did you know how easily you can customize War Thunder, or even add your own content to the game? Meet the official content creation tools pack, the War Thunder CDK!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8063-development-battle-pass-vehicles-amx-50-to90-930-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_amx_50_1950_c3c7c896ae83c8a5ed3e367b297bac1f.jpg",
       "title": "Battle Pass vehicles: AMX-50 (TO90/930)",
       "description": "The main tank prize in the upcoming Battle Pass season “Royal guard” is a new member of the AMX-50 family, a premium French tank equipped with a 90mm gun, oscillating turret and autoloader!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8062-development-battle-pass-vehicles-bf-109-f-4-italy-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_bf_109f_4_hungary__8791ff503b716db38cf97f6f4c2c43f1.jpg",
       "title": "Battle Pass vehicles: Bf 109 F-4 (Italy)",
       "description": "Meet the aircraft prize of the upcoming season! A Premium winter version of the Bf 109 F-4 coated with a livery of the most effective Hungarian ace Dezső Szentgyörgyi!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8061-development-battle-pass-vehicles-project-183-bm-21-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_pr_183_egypt_bm_21_bc706c437546eebf7ef0da354bf3fe40.jpg",
-      "title": "Battle Pass vehicles: Project 183 BM-21",
-      "description": "The Cold war Soviet torpedo boat gets into a gun frenzy with a  BM-21 \"Grad\" multiple launch rocket system mounted instead of the rear turret!"
     }
   },
   "events": {
