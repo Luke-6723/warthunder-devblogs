@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8092-development-zts63-1980-nimble-sniper-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_zts_63_1980_408e7f4dc4715b7ec99525d6aef78c67.jpg",
+      "title": "ZTS63 (1980): Nimble Sniper",
+      "description": "ZTS63 is a Chinese amphibious light tank created on the Soviet PT-76 platform. The vehicle has an 85 mm rifled gun with a laser rangefinder and armour-piercing fin-stabilised rounds."
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8095-development-optimization-of-the-war-thunder-file-structure-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Helicopter/_thumbs/520x/ah_1f_newmodificationresearch378X213_b8095ec0cd8338daab95ea33648f76b1.jpg",
       "title": "Optimization of the War Thunder file structure",
       "description": "We will soon move to a new game client file structure that will reduce the size of updates and speed up their installation."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8085-development-sd-kfz-222-a-little-tank-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_sdkfz_222_early_9dd79a275e775d47eedb7d4d3f03f4fb.jpg",
       "title": "Sd.Kfz.222: A Little Tank",
       "description": "The Sd.Kfz.222 light reconnaissance armored vehicle was one of the most successful vehicles of this type in service with the German land army and saw intense use in combat during WWII."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8083-development-update-for-the-war-thunder-cdk-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/france_ground_newmodificationresearch378X213_0b4a484ae5ab007c407378f78634fabd.jpg",
-      "title": "Update for the War Thunder CDK!",
-      "description": "Did you know how easily you can customize War Thunder, or even add your own content to the game? Meet the official content creation tools pack, the War Thunder CDK!"
     }
   },
   "events": {
