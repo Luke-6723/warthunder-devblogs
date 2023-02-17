@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8101-development-pre-order-type-16-fps-wheeled-spg-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_378_type_16_mod_74e04440e8e77242c9a05a06919aad03.jpg",
+      "title": "Pre-order: Type 16 (FPS) wheeled SPG",
+      "description": "The premium version of the menacing Japanese tank destroyer comes with a brutal outfit and unique pre-order bonuses!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8102-development-improved-heat-signatures-for-jet-engines-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/f_16_940_Anons_2ee195774fbb0cbea86f0563580d3ce6.jpg",
       "title": "Improved heat signatures for jet engines",
       "description": "Heat seekers on missiles are now able to react to the heat signatures of jet aircraft engines in various run modes."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8100-development-new-locations-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/378_c9184a1d347e1f0d4e8b3ceb73cf67e1.jpg",
       "title": "New locations!",
       "description": "First work-in-progress images of the new locations from the upcoming War Thunder update!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8096-development-ijn-nenohi-lightweight-battler-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_destroyer_nenohi_74aa9f961ecc4024a941f6a1d8dbabf1.jpg",
-      "title": "IJN Nenohi: Lightweight Battler",
-      "description": "Nenohi is one of six Hatsuharu class destroyers built for the IJN in the early 1930s. Armed with punchy cannons and even deadlier torpedoes, Nenohi will come to reinforce the ranks of the Japanese bluewater tree as part of the next major War Thunder update!"
     }
   },
   "events": {
