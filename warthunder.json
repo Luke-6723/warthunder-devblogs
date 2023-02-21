@@ -47,16 +47,16 @@
       "description": "Brand new Rank VIII 4th generation aircraft with the iconic trio of F-16, MiG-29 and Tornado! Selection of over 40 new and updated models of aircraft, ground vehicles and navy. New models for ship crew with reworked voice overs for navy events, drop-tanks mechanics, two new locations and as always, a long list of bug fixes and smaller updates and changes! Prepare yourself, Apex Predators have arrived at War Thunder!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1461",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/Mig21_anons_b9512c8b7b5b716863233ceaa6d0e0ff.jpg",
+      "title": "Update  2.23.1.41",
+      "description": "MiG-21 F-13 — ballistic calculator has been added for rockets. (...)"
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1460",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/Mig23anons_133e40d4b598d945f0504a8d7d5b1ad7.jpg",
       "title": "Update 2.23.1.33 (Xbox, Playstation - Server update)",
       "description": "The chance of radar lock transfer on nearby targets has been decreased, which means more stable target tracking."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1459",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/italy_boat_newmodificationresearch378_213_12cab2519d0dc285203f5dd6c56ae5ad.jpg",
-      "title": "Update 2.23.1.26",
-      "description": "A bug that might make aircraft textures look blurry has been fixed."
     }
   }
 }
