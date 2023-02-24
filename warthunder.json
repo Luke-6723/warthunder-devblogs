@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8114-development-ah-6m-little-bird-the-killer-egg-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Helicopter/_thumbs/520x/anons_ah_6m_9f530c391ccb33ab6674e78b5afdd863.jpg",
+      "title": "AH-6M Little Bird: The Killer Egg",
+      "description": "A special forces helicopter originating from the commercial model offers mind-blowing agility and a lethal arsenal of weapons!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8110-development-uss-nevada-bb-36-cutting-the-edge-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_battleship_nevada_a93795b120683f27e56cdb26354df9ba.jpg",
       "title": "USS Nevada (BB-36): Cutting the Edge",
       "description": "USS Nevada is the lead ship of her class of two battleships built for the U.S. Navy in the years prior to the outbreak of WWI. Featuring a plethora of naval innovations and setting a standard for coming U.S. battleships, captains in War Thunder will have the chance to take command of the iconic USS Nevada as it arrives in the game as part of the next major update!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8107-development-pre-order-uss-ca-134-des-moines-1948-heavy-cruiser-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_378_cruiser_des_moines_b6f7705de37f97ef0f7d94a39f079d18.jpg",
       "title": "Pre-order: USS CA-134 Des Moines 1948 heavy cruiser",
       "description": "A fast-firing Premium heavy cruiser, the USS Des Moines is available for pre-order as a special pack with Golden Eagles, Premium days and unique customization options!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8108-development-challenger-2e-hurry-up-sir-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_challenger_2e_095fa21fe97651f7c97d0a074a009341.jpg",
-      "title": "Challenger 2E: Hurry up, Sir!",
-      "description": "A new British top-tier main battle tank comes equipped with a new power plant and improved mobility."
     }
   },
   "events": {
