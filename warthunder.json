@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8123-development-96k6-pantsir-s1-the-ultimatum-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_pantsyr_s1_1e487340fcb469cf06603b98c8408ff6.jpg",
+      "title": "96K6 Pantsir-S1: The Ultimatum",
+      "description": "The Pantsir-S1 surface-to-air missile and artillery system capable of tracking and killing several air targets comes as a new top-tier SPAAG for the Soviets."
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8115-development-french-navy-destroyer-aigle-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_378_destroyer_aigle_d9dee7f79af3def333219266a687fb7f.jpg",
       "title": "French Navy: destroyer Aigle",
       "description": "The Aigle destroyer sporting deadly cannons and great torpedoes comes as the first French ship to be added to the game in a special early access pack!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8114-development-ah-6m-little-bird-the-killer-egg-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Helicopter/_thumbs/520x/anons_ah_6m_9f530c391ccb33ab6674e78b5afdd863.jpg",
       "title": "AH-6M Little Bird: The Killer Egg",
       "description": "A special forces helicopter originating from the commercial model offers mind-blowing agility and a lethal arsenal of weapons!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8110-development-uss-nevada-bb-36-cutting-the-edge-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_battleship_nevada_a93795b120683f27e56cdb26354df9ba.jpg",
-      "title": "USS Nevada (BB-36): Cutting the Edge",
-      "description": "USS Nevada is the lead ship of her class of two battleships built for the U.S. Navy in the years prior to the outbreak of WWI. Featuring a plethora of naval innovations and setting a standard for coming U.S. battleships, captains in War Thunder will have the chance to take command of the iconic USS Nevada as it arrives in the game as part of the next major update!"
     }
   },
   "events": {
