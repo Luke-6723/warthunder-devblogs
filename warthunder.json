@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8127-development-french-navy-light-cruiser-duguay-trouin-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_378_cruiser_dugay_trouin_33ff863494ac6feed2d6a9d7b7a325fd.jpg",
+      "title": "French Navy: light cruiser Duguay-Trouin",
+      "description": "Duguay-Trouin is the lead ship of her class of light cruisers built for the French navy in the years following the end of World War I. Being not only the first capital ship built by France in the postwar period, Duguay-Trouin will also be one of the first French vessels to arrive in War Thunder as part of the “Sky Guardians” major update!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8121-development-f-16aj-cover-boy-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_f_16aj_79bdec0248d9dec4343835f73d91d211.jpg",
       "title": "F-16AJ: Cover-boy",
       "description": "The export version of the F-16A jet-fighter designed for Japan Air Self-Defense Force comes as the first 4th gen aircraft in the Japanese tech tree."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8123-development-96k6-pantsir-s1-the-ultimatum-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_pantsyr_s1_1e487340fcb469cf06603b98c8408ff6.jpg",
       "title": "96K6 Pantsir-S1: The Ultimatum",
       "description": "The Pantsir-S1 surface-to-air missile and artillery system capable of tracking and killing several air targets comes as a new top-tier SPAAG for the Soviets."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8115-development-french-navy-destroyer-aigle-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_378_destroyer_aigle_d9dee7f79af3def333219266a687fb7f.jpg",
-      "title": "French Navy: destroyer Aigle",
-      "description": "The Aigle destroyer sporting deadly cannons and great torpedoes comes as the first French ship to be added to the game in a special early access pack!"
     }
   },
   "events": {
