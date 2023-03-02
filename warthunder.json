@@ -47,16 +47,16 @@
       "description": "Brand new Rank VIII 4th generation aircraft with the iconic trio of F-16, MiG-29 and Tornado! Selection of over 40 new and updated models of aircraft, ground vehicles and navy. New models for ship crew with reworked voice overs for navy events, drop-tanks mechanics, two new locations and as always, a long list of bug fixes and smaller updates and changes! Prepare yourself, Apex Predators have arrived at War Thunder!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1463",
+      "banner": "https://static.warthunder.com/upload/image//!%20new/Anons_378/uk_repair_378_c18927e8e0a11192c26d831ecb6d4b2e.jpg",
+      "title": "Update 2.23.1.51",
+      "description": "On non SSE4.1 capable PCs, but with a 64bit operating system the game will use all available RAM (previously it was limited by ca ~4gb)."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1462",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/anons_spit_d0516e4e632c25280bc473c1240cb35c.jpg",
       "title": "Update  2.23.1.48 (2.23.1.46 - Xbox)",
       "description": "When completing a Battle Pass challenge, you will now see in the debriefing window the “Challenges” button for easily getting your reward."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1461",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/Mig21_anons_b9512c8b7b5b716863233ceaa6d0e0ff.jpg",
-      "title": "Update  2.23.1.41",
-      "description": "MiG-21 F-13 — ballistic calculator has been added for rockets. (...)"
     }
   }
 }
