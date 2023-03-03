@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8137-development-new-effects-for-aviation-in-the-sky-guardians-update-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_jet_sound_21824517f5d191aff65ebfb7bdd687f4.jpg",
+      "title": "New effects for aviation in the Sky Guardians update",
+      "description": "A little sneak peek of the new visual and physical improvements in War Thunder aviation that will be introduced into the game with the upcoming Sky Guardians update!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8136-development-dev-team-replies-to-community-feedback-on-the-sky-guardians-update-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/answers_developers_Anons.jpg",
       "title": "Dev team replies to community feedback on the Sky Guardians update",
       "description": "The War Thunder development team reacts on the hottest topics of discussion of the upcoming Sky Guardians update."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8132-development-m53-59-czechoslovak-lizard-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_m53_59_e7685b7a268996345e19b070602062af.jpg",
       "title": "М53/59 Czechoslovak Lizard",
       "description": "The М53/59 Praga is a  Czechoslovak wheeled SPAAG developed in the late 1950s on the chassis of the Praga V3S truck. Coming to War Thunder as part of the next major update , Praga will soon make its way to the Soviet ground forces tree and expand its roster of highly capable SPAA units!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8133-development-pre-order-f-4s-phantom-ii-pack-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_378_f_4s_ecb7b5ecdaae189b9a615accf72de324.jpg",
-      "title": "Pre-order:  F-4S Phantom II pack",
-      "description": "An upgraded version of the menacing Phantom II multirole jet fighter will join the top ranks of the US air forces as a new Premium aircraft in the “Sky Guardians” update. Check the exclusive content available for pre-order pack owners!"
     }
   },
   "events": {
