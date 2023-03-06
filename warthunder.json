@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8142-development-squadron-vehicles-hunter-f-58-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_hunter_f58_1982_3e554cb7a8a30b70714a43ebe5f00c29.jpg",
+      "title": "Squadron vehicles: Hunter F.58",
+      "description": "The Swiss version of the iconic British Hawker Hunter jet fighter, melding air-to-air and air-to-surface missiles. The Hunter, versatile like never before, will be yours for free for squadron activity points!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8137-development-new-effects-for-aviation-in-the-sky-guardians-update-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_jet_sound_21824517f5d191aff65ebfb7bdd687f4.jpg",
       "title": "New effects for aviation in the Sky Guardians update",
       "description": "A little sneak peek of the new visual and physical improvements in War Thunder aviation that will be introduced into the game with the upcoming Sky Guardians update!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8136-development-dev-team-replies-to-community-feedback-on-the-sky-guardians-update-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/answers_developers_Anons.jpg",
       "title": "Dev team replies to community feedback on the Sky Guardians update",
       "description": "The War Thunder development team reacts on the hottest topics of discussion of the upcoming Sky Guardians update."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8132-development-m53-59-czechoslovak-lizard-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_m53_59_e7685b7a268996345e19b070602062af.jpg",
-      "title": "М53/59 Czechoslovak Lizard",
-      "description": "The М53/59 Praga is a  Czechoslovak wheeled SPAAG developed in the late 1950s on the chassis of the Praga V3S truck. Coming to War Thunder as part of the next major update , Praga will soon make its way to the Soviet ground forces tree and expand its roster of highly capable SPAA units!"
     }
   },
   "events": {
