@@ -47,16 +47,16 @@
       "description": "The first units for the French naval tree, new and updated graphical effects and data structure optimization  along with ejection seats for selected modern jets. Amongst the 43 new as well as updated vehicle models, one can't help but mention the real behemoth - the Char2, the agile AH-6M \"Little Bird\" helicopter or the first French light cruiser; Duguay-Trouin!. In addition to all this, the winter version of the location \"Seversk\", a new location for fans of avionics - Pyrenees, and as always, many improvements and fixes! Let's welcome the \"Sky Guardians\" update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1467",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/aircraft12_TW_Anons_6c4efa9bc29cba53af59dc8d325be2a0.png",
+      "title": "Update 2.25.0.15",
+      "description": "A bug that caused second team fighters to not raspawn correctly in missions of the type [Operation] has been fixed."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1465",
       "banner": "https://static.warthunder.com/upload/image//!%20new/Anons_378/usa_modifications378_213_3ca0864da975ea11338f0540626ed74d.jpg",
       "title": "Update 2.23.1.55",
       "description": "A bug where HE shells in some aircraft and anti-aircraft guns caused little damage has been fixed."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1463",
-      "banner": "https://static.warthunder.com/upload/image//!%20new/Anons_378/uk_repair_378_c18927e8e0a11192c26d831ecb6d4b2e.jpg",
-      "title": "Update 2.23.1.51",
-      "description": "On the CPU without SSE4.1 support, but with a 64bit operating system the game will use all available RAM (previously it was limited by ca ~4GB)."
     }
   }
 }
