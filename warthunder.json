@@ -47,16 +47,16 @@
       "description": "The first units for the French naval tree, new and updated graphical effects and data structure optimization  along with ejection seats for selected modern jets. Amongst the 43 new as well as updated vehicle models, one can't help but mention the real behemoth - the Char2, the agile AH-6M \"Little Bird\" helicopter or the first French light cruiser; Duguay-Trouin!. In addition to all this, the winter version of the location \"Seversk\", a new location for fans of avionics - Pyrenees, and as always, many improvements and fixes! Let's welcome the \"Sky Guardians\" update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1471",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/tank3_TW_7314ea4739f77af4bab46a789289a282.png",
+      "title": "Update 2.25.0.27",
+      "description": "Artillery strikes are again accompanied by visual effects."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1470",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/T90_378_ed913c5285fb5128bbd44a2d009c8e07.jpg",
       "title": "Update 2.25.0.24 (PlayStation), 2.25.0.21 (Xbox)",
       "description": "A bug has been fixed in which tanks viewed in thermal vision may glitch or be displayed as cold objects."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1469",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/hood_378_a75d6ef3b827ce55804cfde9a562055a.jpg",
-      "title": "Update 2.25.0.21",
-      "description": "A bug that might sometimes cause the hit decals to be too large has been fixed. (...)"
     }
   }
 }
