@@ -21,22 +21,22 @@
   },
   "events": {
     "0": {
+      "link": "https://warthunder.com/en/news/8149-event-tank-football-2023-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/loading_512_Anons_6333d56549d3da75a355203935ee0020.jpg",
+      "title": "Tank Football 2023",
+      "description": "We’re excited to invite you to the War Thunder special tank football event! You will experience the reworked physics of tank to ball interactions, as well as new to the game goalie mechanics, which will allow you to earn mission points and progress up through goalkeeper achievements!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8124-event-pages-of-history-march-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/ww_news_07_02_2023_378x213_6a3a36fbadc61aa60c9d036f8fbaab39.jpg",
       "title": "Pages of History (March)",
       "description": "For the whole month, you will have 8 tasks available to you one by one. Completion of each task will award you with a trophy containing a reward, while completing all tasks will award you with a unique in-game player icon."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8080-event-world-war-mode-news-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/ww_news_06_02_2023_378x213_368914b1ad5de2f789d566bc0901dbd8.jpg",
       "title": "World War Mode news",
       "description": "We would like to present to you the next batch of changes in the “World War” game mode and inform you about the upcoming opportunity to test your skill in historical battles."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8073-event-pages-of-history-february-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/378x213_b9f967e7dd3f7a9881434edda3930272.jpg",
-      "title": "Pages of History (February)",
-      "description": "For the whole month, you will have 8 tasks available to you one by one. Completion of each task will award you with a trophy containing a reward, while completing all tasks will award you with a unique in-game player icon"
     }
   },
   "changelogs": {
