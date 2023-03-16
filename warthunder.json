@@ -47,16 +47,16 @@
       "description": "The first units for the French naval tree, new and updated graphical effects and data structure optimization  along with ejection seats for selected modern jets. Amongst the 43 new as well as updated vehicle models, one can't help but mention the real behemoth - the Char2, the agile AH-6M \"Little Bird\" helicopter or the first French light cruiser; Duguay-Trouin!. In addition to all this, the winter version of the location \"Seversk\", a new location for fans of avionics - Pyrenees, and as always, many improvements and fixes! Let's welcome the \"Sky Guardians\" update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1473",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/HUNTER_58_378_177eb92e0cabadda780fb28f0b02836a.jpg",
+      "title": "Server Update 16.03.23",
+      "description": "Table of changes in the BR of Hunter aircraft in RB:"
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1472",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Helicopter/heli9_TW_Anons_53f70376ff4d1ce4e0a2cc53575b5e1b.png",
       "title": "Update 2.25.0.33 (2.25.0.31 - Playstation)",
       "description": "A bug has been fixed where pressing the minimap button in the multifunctional menu or radio reports many times caused the opening of the gaming chat."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1471",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/tank3_TW_7314ea4739f77af4bab46a789289a282.png",
-      "title": "Update 2.25.0.27",
-      "description": "Artillery strikes are again accompanied by visual effects."
     }
   }
 }
