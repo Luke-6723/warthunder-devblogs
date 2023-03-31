@@ -47,16 +47,16 @@
       "description": "The first units for the French naval tree, new and updated graphical effects and data structure optimization  along with ejection seats for selected modern jets. Amongst the 43 new as well as updated vehicle models, one can't help but mention the real behemoth - the Char2, the agile AH-6M \"Little Bird\" helicopter or the first French light cruiser; Duguay-Trouin!. In addition to all this, the winter version of the location \"Seversk\", a new location for fans of avionics - Pyrenees, and as always, many improvements and fixes! Let's welcome the \"Sky Guardians\" update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1479",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/wt_1_77_steam_1438x810_Anons_e4e98a2271f416275a6e15a8649ea636.jpg",
+      "title": "Update 2.25.1.19",
+      "description": "Sounds of tank guns have been corrected to be more realistic. In third person, attacks are more clean and powerful, while the end of the shot feels more natural. In first person pushback, the breech mechanism and falling of shell casings are now more pronounced."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1478",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/IJN940_Anons_bdef4135a2485c4cf8207f0b275160c7.jpg",
       "title": "Update 2.25.0.52",
       "description": "Rewards that require all rewards from the same trophy to be unlocked have been moved to a separate section in the description of Battle trophies."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1477",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/fairmile_d_anons_83127127acab854eb926930d872fa4b2.jpg",
-      "title": "Update 2.25.0.48",
-      "description": "A bug has been fixed that caused torpedoes not to leave a trail in the water."
     }
   }
 }
