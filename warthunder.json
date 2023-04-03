@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8172-development-repair-factory-amd-35-sa35-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_amd_35_sa35_94f78609f4bbb715ce639c1ca3d2551a.jpg",
+      "title": "Repair Factory: AMD 35 SA35",
+      "description": "The AMD 35 is a French armored car developed by Panhard in the interwar period featuring an advanced design for its time. Soon, an experimental modification of the already familiar AMD 35 will make its way to War Thunder as one of the main prizes of the upcoming spring crafting event!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8164-development-radars-and-missiles-recent-updates-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/jaguar_Anons_68b3a781aab6e3f5bffddcac94fab52d.jpg",
       "title": "Radars and Missiles: recent updates",
       "description": "A little more details of a recent update with noticeable improvements in the radar mechanics, the IRST range, and flight parameters of missiles."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8142-development-squadron-vehicles-hunter-f-58-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_hunter_f58_1982_3e554cb7a8a30b70714a43ebe5f00c29.jpg",
       "title": "Squadron vehicles: Hunter F.58",
       "description": "The Swiss version of the iconic British Hawker Hunter jet fighter, melding air-to-air and air-to-surface missiles. The Hunter, versatile like never before, will be yours for free for squadron activity points!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8137-development-new-effects-for-aviation-in-the-sky-guardians-update-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_jet_sound_21824517f5d191aff65ebfb7bdd687f4.jpg",
-      "title": "New effects for aviation in the Sky Guardians update",
-      "description": "A little sneak peek of the new visual and physical improvements in War Thunder aviation that will be introduced into the game with the upcoming Sky Guardians update!"
     }
   },
   "events": {
