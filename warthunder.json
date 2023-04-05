@@ -47,16 +47,16 @@
       "description": "The first units for the French naval tree, new and updated graphical effects and data structure optimization  along with ejection seats for selected modern jets. Amongst the 43 new as well as updated vehicle models, one can't help but mention the real behemoth - the Char2, the agile AH-6M \"Little Bird\" helicopter or the first French light cruiser; Duguay-Trouin!. In addition to all this, the winter version of the location \"Seversk\", a new location for fans of avionics - Pyrenees, and as always, many improvements and fixes! Let's welcome the \"Sky Guardians\" update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1482",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/ww_news_07_02_2023_378x213_6a3a36fbadc61aa60c9d036f8fbaab39.jpg",
+      "title": "Update 2.25.1.32",
+      "description": "Error indicator has been added, if one decoration interferes with another."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1480",
       "banner": "https://static.warthunder.com/upload/image//!%20new/Anons_378/usa_modifications378_213_3ca0864da975ea11338f0540626ed74d.jpg",
       "title": "Server Update 31.03.23",
       "description": "Custom hangar functionality is temporarily disabled due to a bug that causes the game to crash when launching the client."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1479",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/wt_1_77_steam_1438x810_Anons_e4e98a2271f416275a6e15a8649ea636.jpg",
-      "title": "Update 2.25.1.19",
-      "description": "Sounds of tank guns have been corrected to be more realistic. In third person, attacks are more clean and powerful, while the end of the shot feels more natural. In first person pushback, the breech mechanism and falling of shell casings are now more pronounced."
     }
   }
 }
