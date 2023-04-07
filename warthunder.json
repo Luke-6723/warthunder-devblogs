@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8188-development-refinement-of-the-aircraft-damage-models-on-the-example-of-su-25-and-a-10a-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/a_10a_378x213_4d790ab00e095f11eeb6a61817ac00cc.jpg",
+      "title": "Refinement of the aircraft damage models on the example of Su-25 and А-10А",
+      "description": "We received feedback from players about possible problems with damage models of the top attackers Su-25 and A-10A. Now we will tell you about what problems we found and how we solved them."
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8183-development-repair-factory-qn506-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_qn506_3b6d13500839c577e1aa27c7d968dcd6.jpg",
       "title": "Repair Factory: QN506",
       "description": "The QN506 is a modern Chinese concept for a fighting vehicle to support tanks. The branded feature of the vehicle is the unmanned turret with automatic cannon and multipurpose missiles of different calibers."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8184-development-repair-factory-a-7k-corsair-ii-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_a_7k_85f479a407cba9754781bbe06610dce3.jpg",
       "title": "Repair Factory: A-7K Corsair II",
       "description": "A new two-seater Corsair II comes to War Thunder as the main prize in the upcoming Repair Factory event."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8181-development-repair-factory-shcherbakov-light-cruiser-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_cruiser_shcherbakov_737530789eabcd1e544e472f9d49d6dd.jpg",
-      "title": "Repair Factory: Shcherbakov light cruiser",
-      "description": "The Soviet light cruiser Shcherbakov offers a fine balance between high fire-rate of her main guns, good mobility and excellent anti-air defense."
     }
   },
   "events": {
