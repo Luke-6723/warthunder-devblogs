@@ -50,7 +50,7 @@
       "link": "https://warthunder.com/en/game/changelog/current/1484",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/379_type_69_2g.jpg",
       "title": "Update 2.25.1.39",
-      "description": "A bug that made hits from 30 mm automatic cannons of a low velocity look and sound like hits of high velocity cannons (3000 - 6000 rpm) has been fixed."
+      "description": "A bug that caused hits from 30 mm automatic cannons of a low firing rate to look and sound like hits from high firing rate cannons (3000 - 6000 rpm) has been fixed."
     },
     "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1483",
