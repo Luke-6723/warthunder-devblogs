@@ -47,16 +47,16 @@
       "description": "The first units for the French naval tree, new and updated graphical effects and data structure optimization  along with ejection seats for selected modern jets. Amongst the 43 new as well as updated vehicle models, one can't help but mention the real behemoth - the Char2, the agile AH-6M \"Little Bird\" helicopter or the first French light cruiser; Duguay-Trouin!. In addition to all this, the winter version of the location \"Seversk\", a new location for fans of avionics - Pyrenees, and as always, many improvements and fixes! Let's welcome the \"Sky Guardians\" update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1484",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/379_type_69_2g.jpg",
+      "title": "Update 2.25.1.39",
+      "description": "A bug that made hits from 30 mm automatic cannons of a low velocity look and sound like hits of high velocity cannons (3000 - 6000 rpm) has been fixed."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1483",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/spitfire_airfield_b5dcdb089aa9bed8da411a6a20a21bfb.jpg",
       "title": "Server Update 06.04.2023",
       "description": "The conditions for receiving rewards containing Golden Eagles under the “Invite friend” program have been changed."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1482",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/ww_news_07_02_2023_378x213_6a3a36fbadc61aa60c9d036f8fbaab39.jpg",
-      "title": "Update 2.25.1.32",
-      "description": "Error indicator has been added, if one decoration interferes with another."
     }
   }
 }
