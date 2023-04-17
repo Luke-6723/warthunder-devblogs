@@ -47,16 +47,16 @@
       "description": "The first units for the French naval tree, new and updated graphical effects and data structure optimization  along with ejection seats for selected modern jets. Amongst the 43 new as well as updated vehicle models, one can't help but mention the real behemoth - the Char2, the agile AH-6M \"Little Bird\" helicopter or the first French light cruiser; Duguay-Trouin!. In addition to all this, the winter version of the location \"Seversk\", a new location for fans of avionics - Pyrenees, and as always, many improvements and fixes! Let's welcome the \"Sky Guardians\" update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1487",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/aircraft11_TW_Anons_ccb5ce0c6d22d08d15dd0c4eba39851a.png",
+      "title": "Update 2.25.1.54",
+      "description": "Custom hangar functionality is again available."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1486",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/answers_developers__c061f954464829ada6b446125be385de.jpg",
       "title": "Server Update 13.04.2023",
       "description": "Battle Rating changes."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1485",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/wt_1_77_steam_1438x810_Anons_e4e98a2271f416275a6e15a8649ea636.jpg",
-      "title": "Update 2.25.1.44",
-      "description": "Numerous bug fixes."
     }
   }
 }
