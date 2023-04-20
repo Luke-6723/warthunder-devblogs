@@ -47,16 +47,16 @@
       "description": "The first units for the French naval tree, new and updated graphical effects and data structure optimization  along with ejection seats for selected modern jets. Amongst the 43 new as well as updated vehicle models, one can't help but mention the real behemoth - the Char2, the agile AH-6M \"Little Bird\" helicopter or the first French light cruiser; Duguay-Trouin!. In addition to all this, the winter version of the location \"Seversk\", a new location for fans of avionics - Pyrenees, and as always, many improvements and fixes! Let's welcome the \"Sky Guardians\" update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1490",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/dossie2r_Anons_6c35a09263249859c5798eb428f5e62e.jpg",
+      "title": "Nickname display unification",
+      "description": "The displaying of nicknames for all Gaijin users has been unified."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1489",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/mig_lazur_anons_0cb2907332305d6d1948a1eac465fe58.jpg",
       "title": "Update 2.25.1.60",
       "description": "Numerous bug fixes"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1488",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/hood_378_a75d6ef3b827ce55804cfde9a562055a.jpg",
-      "title": "Server update 18.04.2023",
-      "description": "The terms of purchasing a rank V bluewater ship has temporarily been removed from the “Invite a friend” program (2,500 GE). The reward will still be issued for purchasing a rank V coastal vessel, ground vehicle, or aircraft. This temporary solution is against the sharply increased number of players using game process automation to upgrade their game account."
     }
   }
 }
