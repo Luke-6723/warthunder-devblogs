@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8203-development-battle-pass-vehicles-centurion-mk-2-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_centurion_mk2_25024bcc6610f0b5a29a9e032fcd1bfb.jpg",
+      "title": "Battle Pass vehicles: Centurion Mk 2",
+      "description": "The main tank prize of the new season is the British Centurion Mk 2 with a cast turret and gun stabiliser. Meet Her Majesty Hussar!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8202-development-battle-pass-vehicles-j26-david-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_378_p51c_10nt_deb0c3a6b6058b31375eff775dcd80d9.jpg",
       "title": "Battle Pass vehicles: J26 David",
       "description": "J26 David is an interned and purchased American P-51B-7 Mustang fighter aircraft in service with the Swedish air forces. Meet the main aviation prize available for every War Thunder player!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8200-development-battle-pass-vehicles-s-701-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_s_700_s_701_aaf90c375ba6fe89ed6bc89b0f7d5f03.jpg",
       "title": "Battle Pass vehicles: S-701",
       "description": "Iconic German E-boats of the 701-st series had an additional pair of torpedo tubes to shoot sternwards!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8188-development-refinement-of-the-aircraft-damage-models-on-the-example-of-su-25-and-a-10a-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/a_10a_378x213_4d790ab00e095f11eeb6a61817ac00cc.jpg",
-      "title": "Refinement of the aircraft damage models on the example of Su-25 and А-10А",
-      "description": "We received feedback from players about possible problems with damage models of the top attackers Su-25 and A-10A. Now we will tell you about what problems we found and how we solved them."
     }
   },
   "events": {
