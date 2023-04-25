@@ -21,16 +21,16 @@
   },
   "events": {
     "0": {
-      "link": "https://warthunder.com/en/news/8186-event-repair-factory-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/378%D1%85213_820b8c2301a23db762aab4565311f8d9.jpg",
-      "title": "“Repair Factory”",
-      "description": "In the “Mobile Infantry” event you got a good look at exo-suits in intense urban battles. The battles will continue and the battlefield is littered with spent exo-suits - battered, damaged, inoperable. It’s a good time to get behind the scenes and help them get back to action. Prepare some combat-ready exo-suits and get exclusive vehicles in return!"
-    },
-    "1": {
       "link": "https://warthunder.com/en/news/8208-event-pages-of-history-may-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/pages_of_history_may_378x213_4c53caa875d716ad761fe6080d353de5.jpg",
       "title": "Pages of History (May)",
       "description": "For the whole month, you will have 8 tasks available to you one by one. Completion of each task will award you with a trophy containing a reward, while completing all tasks will award you with a unique in-game player icon."
+    },
+    "1": {
+      "link": "https://warthunder.com/en/news/8186-event-repair-factory-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/378%D1%85213_820b8c2301a23db762aab4565311f8d9.jpg",
+      "title": "“Repair Factory”",
+      "description": "In the “Mobile Infantry” event you got a good look at exo-suits in intense urban battles. The battles will continue and the battlefield is littered with spent exo-suits - battered, damaged, inoperable. It’s a good time to get behind the scenes and help them get back to action. Prepare some combat-ready exo-suits and get exclusive vehicles in return!"
     },
     "2": {
       "link": "https://warthunder.com/en/news/8175-event-mobile-infantry-event-en",
