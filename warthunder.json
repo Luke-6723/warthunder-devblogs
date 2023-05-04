@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8224-development-bf2c-1-goshawk-new-reserve-aircraft-of-the-usa-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_bf2c_1_42587e7b2c62840df67a2a099c167956.jpg",
+      "title": "BF2C-1 Goshawk: new reserve aircraft of the USA",
+      "description": "New reserve aircraft comes to the US tech tree in the upcoming War Thunder update. Meet first photos and details!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8222-development-bm-31-12-katyusha-s-little-brother-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_bm_31_12_c2e2b2026f38dc3501ce77059ada6a2b.jpg",
       "title": "BM-31-12: Katyusha’s Little Brother",
       "description": "Soviet multiple-rocket launch system BM-31-12 will become the main prize of the upcoming Victory Day event in War Thunder."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8204-development-pre-order-m1-kvt-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_378_m1_abrams_kvt_a1eaeef6aafdf76e28b932765df8c696.jpg",
       "title": "Pre-order: M1 KVT",
       "description": "A visually modified M1 Abrams MBT to represent a Soviet tank in exercises, with premium status and pre-order bonuses!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8203-development-battle-pass-vehicles-centurion-mk-2-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_centurion_mk2_25024bcc6610f0b5a29a9e032fcd1bfb.jpg",
-      "title": "Battle Pass vehicles: Centurion Mk 2",
-      "description": "The main tank prize of the new season is the British Centurion Mk 2 with a cast turret and gun stabiliser. Meet Her Majesty Hussar!"
     }
   },
   "events": {
