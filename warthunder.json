@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8228-development-grumman-f-14b-tomcat-the-bombcat-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_f_14b_2dec538ace6d4c37bfe421b41dfa04ca.jpg",
+      "title": "Grumman F-14B Tomcat: The Bombcat",
+      "description": "A new top-tier US naval jet fighter that comes equipped with more powerful engines and new weapons!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8224-development-bf2c-1-goshawk-new-reserve-aircraft-of-the-usa-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_bf2c_1_42587e7b2c62840df67a2a099c167956.jpg",
       "title": "BF2C-1 Goshawk: new reserve aircraft of the USA",
       "description": "New reserve aircraft comes to the US tech tree in the upcoming War Thunder update. Meet first photos and details!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8222-development-bm-31-12-katyusha-s-little-brother-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_bm_31_12_c2e2b2026f38dc3501ce77059ada6a2b.jpg",
       "title": "BM-31-12: Katyusha’s Little Brother",
       "description": "Soviet multiple-rocket launch system BM-31-12 will become the main prize of the upcoming Victory Day event in War Thunder."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8204-development-pre-order-m1-kvt-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_378_m1_abrams_kvt_a1eaeef6aafdf76e28b932765df8c696.jpg",
-      "title": "Pre-order: M1 KVT",
-      "description": "A visually modified M1 Abrams MBT to represent a Soviet tank in exercises, with premium status and pre-order bonuses!"
     }
   },
   "events": {
