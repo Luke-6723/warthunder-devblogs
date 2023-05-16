@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8248-development-new-locations-franz-josef-land-with-new-fortification-mechanics-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/avn_franz_josef_land_anons_dbf2089b194a6cb801a4e88cae102032.jpg",
+      "title": "New Locations: “Franz Josef Land” with new fortification mechanics",
+      "description": "The abandoned frozen waters of Franz Josef Land welcome our captains! Meet the first location with destructible fortifications!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8245-development-raketenautomat-double-barrel-rocket-launcher-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_spz_oerlikon_raketenautomat_2a65047eceb0fa659110f2d70ea56200.jpg",
       "title": "Raketenautomat: double-barrel rocket launcher",
       "description": "An experimental rocket SPG with two 81mm launchers and an extreme fire rate is coming to the game as part of the upcoming War Thunder update."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8241-development-colbert-heavy-cruiser-the-contender-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_cruiser_suffren_class_colbert_c5643f2067de995821dbd5c68f7c9d4b.jpg",
       "title": "Colbert heavy cruiser: The Contender",
       "description": "Meet the Suffren-class Colbert heavy cruiser! Being one of the first rank IV ships it can be equipped with two scout aircraft, wields good gunnery and has a total of 10 torpedoes!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8234-development-new-location-iberian-castle-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/4_Anons_1e51e0cae1f862fa55807f17c651fbb3.jpg",
-      "title": "New location: “Iberian Castle”",
-      "description": "Our team is preparing new locations for the upcoming War Thunder update. Meet the  \"Iberian Castle\", new location for mixed battles!"
     }
   },
   "events": {
