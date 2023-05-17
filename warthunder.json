@@ -47,16 +47,16 @@
       "description": "The first units for the French naval tree, new and updated graphical effects and data structure optimization  along with ejection seats for selected modern jets. Amongst the 43 new as well as updated vehicle models, one can't help but mention the real behemoth - the Char2, the agile AH-6M \"Little Bird\" helicopter or the first French light cruiser; Duguay-Trouin!. In addition to all this, the winter version of the location \"Seversk\", a new location for fans of avionics - Pyrenees, and as always, many improvements and fixes! Let's welcome the \"Sky Guardians\" update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1496",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Helicopter/AH6M_Anons_be1da98d8cae4446f66a88d541af3db4.jpg",
+      "title": "Update 2.25.1.112",
+      "description": "The ability to save and view the progress of a favourite achievement from the last point of reference has been added."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1495",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/answers_developers__c061f954464829ada6b446125be385de.jpg",
       "title": "Server Update 16.05.2023",
       "description": "The previously announced economic changes have been implemented."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1494",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Merkava_Anons_5ea945ef756e59bab6692b5d63092c1c.jpg",
-      "title": "Update 2.25.1.101",
-      "description": "A bug has been fixed in the “Take-off and landing” tutorial, where in a “relative controls” setting in SB mode it was unable to proceed the tutorial after taking off ."
     }
   }
 }
