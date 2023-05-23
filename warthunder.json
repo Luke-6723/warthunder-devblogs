@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8264-development-economy-revision-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/updateplain17_fd8064b984890f2364b8d6ce9699485b_2a95ed5238e9858053316cb6e8ad7e0b.png",
+      "title": "Economy Revision",
+      "description": "Firstly, we would like to extend our sincerest apologies to each and every one of you. We deeply regret the fact that our actions have let you down, and that we have failed to adequately address the concerns you have voiced over time. We share your passion for the game, and it pains us that our decisions have not lived up to your expectations."
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8262-development-magach-hydra-tracked-serpent-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_magach_6r_rocket_12421525f81d84ef419142a9078d0ede.jpg",
       "title": "Magach Hydra: Tracked Serpent",
       "description": "The experimental Israeli Magach 6R medium tank equipped with Hydra rocket pods is going to clear the battlefield in the upcoming La Royale update!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8253-development-retarded-bombs-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_retarded_bombs_e015a7d8e08f02293f70918d73711dd8.jpg",
       "title": "Retarded bombs",
       "description": "Hello! Today we will tell you about a new type of weapon that will appear in the game in the next major War Thunder update!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8251-development-cv-9030-fin-finnish-shooter-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_cv_9030_fin_9c15a6c59b5f1984a994da436e9e3e22.jpg",
-      "title": "CV 9030 FIN: Finnish Shooter",
-      "description": "The Swedish CV 9030 FIN infantry fighting vehicle armed with a 30mm Bushmaster cannon was developed to export to Finland."
     }
   },
   "events": {
