@@ -10,12 +10,8 @@ console.time('Warthunder News Fetcher')
  * Webhook URL is discord url
  */
 let webhookURL = null
-if (process.env.NODE_ENV === 'local') {
-  require('dotenv').config()
-  webhookURL = process.env.WEBHOOK_URL
-} else {
-  webhookURL = process.env.WEBHOOK_URL
-}
+require('dotenv').config()
+webhookURL = process.env.WEBHOOK_URL
 
 if (!webhookURL) throw Error('Missing webhook URL')
 
@@ -110,7 +106,7 @@ function handlePosts (type, page) {
   if (storeUpdates?.devblogs[0]?.title !== updates?.devblogs[0]?.title) {
     console.log('Update on DevBlogs')
 
-    axios.post(webhookURL, {
+    await axios.post(webhookURL, {
       embeds: [{
         author: {
           name: 'War Thunder News'
@@ -195,7 +191,7 @@ ${updates?.changelogs[1]?.description}
   }
   
   if(embeds.length > 0) {
-    axios.post(webhookURL, {
+    await axios.post(webhookURL, {
       embeds: embeds
     }, {
       headers: {
