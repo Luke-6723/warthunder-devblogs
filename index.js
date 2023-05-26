@@ -1,28 +1,28 @@
-const { default: axios } = require("axios")
-const { writeFile } = require("fs/promises")
-const puppeteer = require("puppeteer")
-const warthunderLogo = 'https://raw.githubusercontent.com/Luke-6723/warthunder-devblogs/master/warthunder.png'
-const embedColor = 0xE10000
-console.time('Warthunder News Fetcher')
+const { default: axios } = require("axios");
+const { writeFile } = require("fs/promises");
+const puppeteer = require("puppeteer");
+const warthunderLogo = 'https://raw.githubusercontent.com/Luke-6723/warthunder-devblogs/master/warthunder.png';
+const embedColor = 0xE10000;
+console.time('Warthunder News Fetcher');
 
 /**
  * Get environment variables based on NODE_ENV
  * Webhook URL is discord url
  */
-let webhookURL = null
-require('dotenv').config()
-webhookURL = process.env.WEBHOOK_URL
+let webhookURL = null;
+require('dotenv').config();
+webhookURL = process.env.WEBHOOK_URL;
 
-if (!webhookURL) throw Error('Missing webhook URL')
+if (!webhookURL) throw Error('Missing webhook URL');
 
 /**
  * Import stored updates if any.
  */
-let storeUpdates = {}
+let storeUpdates = {};
 try {
-  storeUpdates = require('./warthunder.json')
+  storeUpdates = require('./warthunder.json');
 } catch {
-  console.log('Error importing stored updates. Leaving object empty...')
+  console.log('Error importing stored updates. Leaving object empty...');
 }
 
 /**
@@ -34,77 +34,77 @@ const urls = {
   devblogs: 'https://warthunder.com/en/news/?tags=Development',
   events: 'https://warthunder.com/en/news/?tags=Event',
   changelogs: 'https://warthunder.com/en/game/changelog/'
-}
+};
 
-const widgetSelector = '.showcase__item'
+const widgetSelector = '.showcase__item';
 
 const updates = {
   devblogs: {},
   events: {},
   changelogs: {}
-}
+};
 
 /**
  * @param {'devblogs' | 'events' | 'changelogs'} type 
  */
 function handlePosts (type, page) {
   return new Promise(async (resolve, reject) => {
-    const posts = (await page.$$(widgetSelector)).splice(0, 3)
+    const posts = (await page.$$(widgetSelector)).splice(0, 3);
     posts.forEach(async (p, index) => {
       // Create devblog id if it doesnt exist already
-      if (!updates[type][index]) updates[type][index] = {}
+      if (!updates[type][index]) updates[type][index] = {};
       // Get link
-      const linkElement = await p.$('.widget__link')
-      updates[type][index].link = await (await linkElement.getProperty('href')).jsonValue()
+      const linkElement = await p.$('.widget__link');
+      updates[type][index].link = await (await linkElement.getProperty('href')).jsonValue();
       // Get poster image
-      const posterElement = await p.$('.widget__poster img')
-      updates[type][index].banner = await (await posterElement.getProperty('src')).jsonValue()
+      const posterElement = await p.$('.widget__poster img');
+      updates[type][index].banner = await (await posterElement.getProperty('src')).jsonValue();
       // Get title
-      const titleElement = await p.$('.widget__content .widget__title')
-      updates[type][index].title = await (await titleElement.getProperty('textContent')).jsonValue()
+      const titleElement = await p.$('.widget__content .widget__title');
+      updates[type][index].title = await (await titleElement.getProperty('textContent')).jsonValue();
       // Santitize title
-      updates[type][index].title = updates[type][index].title.replace(/\\n/g, '').trim()
+      updates[type][index].title = updates[type][index].title.replace(/\\n/g, '').trim();
       // Get description
-      const descElement = await p.$('.widget__content .widget__comment')
-      updates[type][index].description = await (await descElement.getProperty('textContent')).jsonValue()
+      const descElement = await p.$('.widget__content .widget__comment');
+      updates[type][index].description = await (await descElement.getProperty('textContent')).jsonValue();
       // Santitize title
-      updates[type][index].description = updates[type][index].description.replace(/\\n/g, '').trim()
+      updates[type][index].description = updates[type][index].description.replace(/\\n/g, '').trim();
 
       if (index === 2) {
-        resolve()
+        resolve();
       }
-    })
-  })
+    });
+  });
 }
 
 (async () => {
   // Start browser
   const browser = await puppeteer.launch({
     headless: true
-  })
+  });
   // Load Devblogs
-  const page = await browser.newPage()
+  const page = await browser.newPage();
 
-  await page.setJavaScriptEnabled(true)
+  await page.setJavaScriptEnabled(true);
   await page.setViewport({
     width: 1200,
     height: 700,
     deviceScaleFactor: 1,
-  })
+  });
 
   /**
    * Development Blogs
   */
 
-  await page.goto(urls.devblogs)
+  await page.goto(urls.devblogs);
   await page.waitForSelector(widgetSelector, {
     timeout: 5000
-  })
+  });
 
-  await handlePosts('devblogs', page)
+  await handlePosts('devblogs', page);
 
   if (storeUpdates?.devblogs[0]?.title !== updates?.devblogs[0]?.title) {
-    console.log('Update on DevBlogs')
+    console.log('Update on DevBlogs');
 
     await axios.post(webhookURL, {
       embeds: [{
@@ -129,24 +129,53 @@ ${updates?.devblogs[0]?.description}
       headers: {
         'Content-Type': 'application/json'
       }
-    })
+    });
+  }
+
+  if (storeUpdates?.devblogs[1]?.title !== updates?.devblogs[1]?.title) {
+    console.log('Update on DevBlogs');
+
+    await axios.post(webhookURL, {
+      embeds: [{
+        author: {
+          name: 'War Thunder News'
+        },
+        url: updates?.devblogs[1]?.link,
+        title: `[Dev Blog] ${updates?.devblogs[1]?.title}`,
+        description: `
+${updates?.devblogs[1]?.description}
+
+[Link to update](${updates?.devblogs[1]?.link})`,
+        color: embedColor,
+        thumbnail: {
+          url: warthunderLogo
+        },
+        image: {
+          url: updates?.devblogs[1]?.banner
+        }
+      }]
+    }, {
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    });
   }
 
   /**
     * Changelogs
    */
 
-  await page.goto(urls.changelogs)
+  await page.goto(urls.changelogs);
   await page.waitForSelector(widgetSelector, {
     timeout: 5000
-  })
+  });
 
-  await handlePosts('changelogs', page)
+  await handlePosts('changelogs', page);
 
-  const embeds = []
+  const embeds = [];
   // Major update check
   if (storeUpdates?.changelogs[0]?.title !== updates?.changelogs[0]?.title) {
-    console.log('Update on Changelogs [Major Update]')
+    console.log('Update on Changelogs [Major Update]');
     embeds.push({
       author: {
         name: 'War Thunder News'
@@ -164,11 +193,11 @@ ${updates?.changelogs[0]?.description}
       image: {
         url: updates?.changelogs[0]?.banner
       }
-    })
+    });
   }
 
   if (storeUpdates?.changelogs[1]?.title !== updates?.changelogs[1]?.title) {
-    console.log('Update on Changelogs [Minor Update]')
+    console.log('Update on Changelogs [Minor Update]');
 
     embeds.push({
       author: {
@@ -187,32 +216,32 @@ ${updates?.changelogs[1]?.description}
       image: {
         url: updates?.changelogs[1]?.banner
       }
-    })
+    });
   }
-  
-  if(embeds.length > 0) {
+
+  if (embeds.length > 0) {
     await axios.post(webhookURL, {
       embeds: embeds
     }, {
       headers: {
         'Content-Type': 'application/json'
       }
-    })
+    });
   }
 
   /**
    * Events
    */
 
-  await page.goto(urls.events)
+  await page.goto(urls.events);
   await page.waitForSelector(widgetSelector, {
     timeout: 5000
-  })
+  });
 
-  await handlePosts('events', page)
+  await handlePosts('events', page);
 
   if (storeUpdates?.events[0]?.title !== updates?.events[0]?.title) {
-    console.log('Update on events')
+    console.log('Update on events');
 
     axios.post(webhookURL, {
       embeds: [{
@@ -237,12 +266,12 @@ ${updates?.events[0]?.description}
       headers: {
         'Content-Type': 'application/json'
       }
-    })
+    });
   }
 
   // Update json file and close browser
-  writeFile('./warthunder.json', JSON.stringify(updates, null, 2))
-  browser.close()
-  console.timeEnd('Warthunder News Fetcher')
+  writeFile('./warthunder.json', JSON.stringify(updates, null, 2));
+  browser.close();
+  console.timeEnd('Warthunder News Fetcher');
 
-})()
+})();
