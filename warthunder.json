@@ -21,22 +21,22 @@
   },
   "events": {
     "0": {
+      "link": "https://warthunder.com/en/news/8281-event-pages-of-history-june-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/catalina_378x213_f9ac9ad5712307483776980f4d983c7f.jpg",
+      "title": "Pages of History (June)",
+      "description": "In this month's Pages of History you'll find yourself in the center of events that happened at numerous battlefronts. Two of the more important Pacific battles, the landings in Normandy, and the beginning of Operation Barbarossa — participate in battles using the vehicles that were used in these historic events and receive prizes!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8226-event-victory-day-in-war-thunder-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/anons_378_victory_day_2023_a9589f0f213ad1296393b08763a2b983.jpg",
       "title": "Victory Day in War Thunder",
       "description": "Victory! Many allied countries spent years with trials and tribulations to end the bloodiest war in the history of humanity, and in early May of 1945 their efforts finally bore fruit. This victory is the most important event of the XXth century that is remembered and celebrated today by tens of millions of people. Join us in War Thunder to commemorate this event!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8227-event-legend-of-victory-bm-31-12-andryusha-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/378_06_bm_31_12_5_1ed0960f3a8fc75b6d89213035e56ca3.jpg",
       "title": "Legend of Victory: BM-31-12 “Andryusha”",
       "description": "Meet the bane of the Wehrmacht — MLRS BM-31-12 “Andryusha”! This vehicle undertook its baptism by fire under Novgorod in Russia and helped push the front way back to Berlin — truly a Legend of Victory! You can receive it and many other prizes, including keys from the “Demolition crate” that contains items from past War Thunder events!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8208-event-pages-of-history-may-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/pages_of_history_may_378x213_4c53caa875d716ad761fe6080d353de5.jpg",
-      "title": "Pages of History (May)",
-      "description": "For the whole month, you will have 8 tasks available to you one by one. Completion of each task will award you with a trophy containing a reward, while completing all tasks will award you with a unique in-game player icon."
     }
   },
   "changelogs": {
