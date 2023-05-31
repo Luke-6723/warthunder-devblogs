@@ -47,16 +47,16 @@
       "description": "The first units for the French naval tree, new and updated graphical effects and data structure optimization  along with ejection seats for selected modern jets. Amongst the 43 new as well as updated vehicle models, one can't help but mention the real behemoth - the Char2, the agile AH-6M \"Little Bird\" helicopter or the first French light cruiser; Duguay-Trouin!. In addition to all this, the winter version of the location \"Seversk\", a new location for fans of avionics - Pyrenees, and as always, many improvements and fixes! Let's welcome the \"Sky Guardians\" update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1501",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/hood_378_a75d6ef3b827ce55804cfde9a562055a.jpg",
+      "title": "Update 2.25.1.131",
+      "description": "Automatic firing of the AI-controlled main calibre turrets on blue water ships has been disabled. When switching to the second and third cannon group the main cannons remain aimed wherever the player was aiming when changing."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1499",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/aircraft7_TW_Anons_bc110be06a9968653fa6d7571c170b43.png",
       "title": "Update 2.25.1.125",
       "description": "In the “Main Parameters” menu in the “Privacy and Confidentiality” tab, a new setting “Hide player nicknames” has been added. This setting allows to hide nicknames of players in battle or change nicknames to numeric UserID values. This option is helpful for streamers who may meet players in battle with nicknames from other platforms (Steam, PSN, Xbox etc.), which in accordance to their rules may contain inappropriate symbols or words, and therefore may in rare cases, cause blocking on streaming services."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1498",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/sony_379_f_104s_starfighter_4f1b912923614efebe7365e66e1a2795.jpg",
-      "title": "Server Update 25.05.23",
-      "description": "Aircraft SB [Enduring Confrontation] The accuracy of SPAA vehicles in vehicle convoys and in the fields of ground battles has been reduced."
     }
   }
 }
