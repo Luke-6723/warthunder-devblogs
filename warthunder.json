@@ -7,16 +7,16 @@
       "description": "Both researchable and Premium versions of the advanced Su-25 attack aircraft are to be added in the upcoming La Royale major update. Pre-order now to get special bonuses!"
     },
     "1": {
+      "link": "https://warthunder.com/en/news/8295-development-battleship-lorraine-the-last-french-dreadnought-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_battleship_bretagne_class_lorraine_1e7b7811d7ceec41fa689848d7501264.jpg",
+      "title": "Battleship Lorraine: the last French dreadnought",
+      "description": "Meet the Bretagne-class Lorraine battleship, the pinnacle of the French bluewater tech tree in the upcoming La Royale update!"
+    },
+    "2": {
       "link": "https://warthunder.com/en/news/8291-development-missile-science-new-physics-with-line-of-sight-guidance-missiles-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/ATGM_10_Anons_0dc5f81f1fdd865c12909976cbb2864e.jpg",
       "title": "Missile Science: new physics with line-of-sight guidance missiles",
       "description": "We present details on the revised physics of guided missiles with line-of-sight guidance in the La Royale update."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8285-development-increasing-the-number-of-players-in-top-ranked-br-ground-battles-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/Abrams_Anons_0c5f12dafaaa17e94e139e3c480ba019.jpg",
-      "title": "Increasing the number of players in top ranked BR ground battles",
-      "description": "Based on the feedback from the YouTube community and from content creators, as well as after analyzing the occupancy of players in sessions of specific ranks, we have decided to make changes to how the matchmaking works and will implement them in the near future (without additional announcements)."
     }
   },
   "events": {
