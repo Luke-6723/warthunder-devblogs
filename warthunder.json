@@ -21,22 +21,22 @@
   },
   "events": {
     "0": {
+      "link": "https://warthunder.com/en/news/8352-event-combat-robots-of-atomic-heart-come-to-war-thunder-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/anons_378_atomic_thunder_efb0b05cb83a1d7090e2c83d112ed05a.jpg",
+      "title": "Combat Robots of Atomic Heart come to War Thunder!",
+      "description": "As you know, combat robots from the Atomic Heart world are being tested on the battlefields of War Thunder. From July 11th to July 31st, unique robots created at Enterprise 3826 will meet in battle with armored vehicles and helicopters of the Cold War era from the USSR and USA in Test Facility 2271."
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8331-event-pages-of-history-july-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/pages_of_history_jule_378x213_8701d4f38f06acbe245b9d90b4f5ec5c.jpg",
       "title": "Pages of History (July)",
       "description": "In this month's Pages of History you'll find yourself at the center of events that happened at numerous battlefronts. Sicily and Normandy, Iran and Guam, Rzhev and Stalingrad — participate in battles using the vehicles that were used in these historic events and receive prizes!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8281-event-pages-of-history-june-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/catalina_378x213_f9ac9ad5712307483776980f4d983c7f.jpg",
       "title": "Pages of History (June)",
       "description": "In this month's Pages of History you'll find yourself in the center of events that happened at numerous battlefronts. Two of the more important Pacific battles, the landings in Normandy, and the beginning of Operation Barbarossa — participate in battles using the vehicles that were used in these historic events and receive prizes!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8226-event-victory-day-in-war-thunder-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/anons_378_victory_day_2023_a9589f0f213ad1296393b08763a2b983.jpg",
-      "title": "Victory Day in War Thunder",
-      "description": "Victory! Many allied countries spent years with trials and tribulations to end the bloodiest war in the history of humanity, and in early May of 1945 their efforts finally bore fruit. This victory is the most important event of the XXth century that is remembered and celebrated today by tens of millions of people. Join us in War Thunder to commemorate this event!"
     }
   },
   "changelogs": {
@@ -47,15 +47,15 @@
       "description": "The beginning of the Closed Beta Test for the French Naval forces, new and updated graphical effects for flares, afterburners, rockets and missiles along with new hit marks on ground vehicles. More than 50 new or updated vehicles. Amongst them 14 new ships for the French Navy! But sailors are not the only ones to find something for themselves here! The Mighty F-14B, three different Sukhoi jets, the unusual M1 KVT tank or the first tank from India in WT - Vijayanta! Two new locations, fortifications mechanics, new weapons for aircraft and much more awaits you in La Royale update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1512",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/tank1_TW_Anons_40ab21808d55cc6c4267518cc9e4748e.png",
+      "title": "Update 2.27.1.17",
+      "description": "Visual problems on the “Iberian Castle” location have been fixed. (...)"
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1511",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/tank12_TW_Anons_e54efac2d63c2c25ad11d4c52051c5d7.png",
       "title": "Update 2.27.0.83",
-      "description": "Numerous bug fixes"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1510",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_khrizantema_eng_Anons_7e42c1dc317de848b5cfbdd64d88091b.jpg",
-      "title": "Update 2.27.0.78",
       "description": "Numerous bug fixes"
     }
   }
