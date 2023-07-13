@@ -47,16 +47,16 @@
       "description": "The beginning of the Closed Beta Test for the French Naval forces, new and updated graphical effects for flares, afterburners, rockets and missiles along with new hit marks on ground vehicles. More than 50 new or updated vehicles. Amongst them 14 new ships for the French Navy! But sailors are not the only ones to find something for themselves here! The Mighty F-14B, three different Sukhoi jets, the unusual M1 KVT tank or the first tank from India in WT - Vijayanta! Two new locations, fortifications mechanics, new weapons for aircraft and much more awaits you in La Royale update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1515",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/at378_49d78c9c0620c71ca1a58d2bfd12b5d1.jpg",
+      "title": "Update 2.27.1.28",
+      "description": "A bug that caused the sound accompanying the death of the HOG-7 Hedgie to be heard by all combatants regardless of their range to the point of death has been fixed."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1514",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/atomic378_8b27822ded6c84c38113ccb050f0c8ad.jpg",
       "title": "Update 2.27.1.26",
       "description": "Damage to allies has been disabled."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1513",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/AtomicThunder378_f12437caabb9bd8310c906872351194b.jpg",
-      "title": "Update 2.27.1.24",
-      "description": "A bug where a rejected request to add friends might appear at every game client launch has been fixed."
     }
   }
 }
