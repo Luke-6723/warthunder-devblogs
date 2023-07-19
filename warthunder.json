@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8360-development-battle-pass-vehicles-mc-485-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_mc_485_23198457826648b7ab4174710624298f.jpg",
+      "title": "Battle Pass vehicles: MC 485",
+      "description": "A German E-Boat, that was used as a commercial cargo vessel after the war ended, gets new life in service with the Regia Marina!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8337-development-roadmap-following-the-roadmap-maps-for-aircraft-flares-and-repair-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/anons_378_economic_changes_56a17b515ec46fbc7fb2afacaf644072.jpg",
       "title": "Following the Roadmap: maps for aircraft, flares and repair",
       "description": "We continue to let you know about the improvements we are implementing based on the War Thunder updates roadmap. Today, we are going to talk about improving the map rotation for air battles as well as increasing the availability of flares and the ability to extinguish fires and repair vehicles."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8327-development-roadmap-following-the-roadmap-updated-economy-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/answers_developers__251a73f2f5c547c12a255cb66d6736ae.jpg",
       "title": "Following the Roadmap: Updated Economy",
       "description": "We continue to move forward with the plans listed in our roadmap, and the next big news after the La Royale major update is the updated economу that the majority of the community voted for."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8318-development-roadmap-economy-revision-our-plan-in-detail-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/econ_130623_378_824c3a32565f119faaf66a9028e8da40.jpg",
-      "title": "Economy Revision - Our Plan in Detail",
-      "description": "First and foremost, we would like to express our gratitude for your patience during the past few weeks as we diligently worked on outlining the roadmap for the highly anticipated revision of the War Thunder economy."
     }
   },
   "events": {
