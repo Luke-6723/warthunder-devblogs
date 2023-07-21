@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8368-development-battle-pass-vehicles-b7a2-homare-23-ryusei-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_b7a2_c40f5c7ba8a6d1221ffe177081eff63c.jpg",
+      "title": "Battle Pass vehicles: B7A2 (Homare 23) Ryusei",
+      "description": "The iconic Japanese dive bomber of the WWII era with a new engine and Premium bonuses!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8363-development-battle-pass-vehicles-spz-12-3-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_spz_12_3_ac1be3966012db2e50083c1eaf45e044.jpg",
       "title": "Battle Pass vehicles: SPz 12-3",
       "description": "The German anti-tank IFV comes to the game as one of the main prizes in the upcoming Battle Pass season “Armour Breaking Ambusher”!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8360-development-battle-pass-vehicles-mc-485-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_mc_485_23198457826648b7ab4174710624298f.jpg",
       "title": "Battle Pass vehicles: MC 485",
       "description": "A German E-Boat, that was used as a commercial cargo vessel after the war ended, gets new life in service with the Marina Militare Italiana!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8337-development-roadmap-following-the-roadmap-maps-for-aircraft-flares-and-repair-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/anons_378_economic_changes_56a17b515ec46fbc7fb2afacaf644072.jpg",
-      "title": "Following the Roadmap: maps for aircraft, flares and repair",
-      "description": "We continue to let you know about the improvements we are implementing based on the War Thunder updates roadmap. Today, we are going to talk about improving the map rotation for air battles as well as increasing the availability of flares and the ability to extinguish fires and repair vehicles."
     }
   },
   "events": {
