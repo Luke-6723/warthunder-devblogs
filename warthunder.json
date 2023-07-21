@@ -27,16 +27,16 @@
       "description": "As you know, combat robots from the Atomic Heart world are being tested on the battlefields of War Thunder. From July 11th to July 31st, unique robots created at Enterprise 3826 will meet in battle with armored vehicles and helicopters of the Cold War era from the USSR and USA in Test Facility 2271."
     },
     "1": {
+      "link": "https://warthunder.com/en/news/8366-event-pages-of-history-august-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/art_t72av_turms_378x213_9825989432d5d041532d2b4160a5dce1.jpg",
+      "title": "Pages of History (August)",
+      "description": "In this month's Pages of History you'll find yourself at the centre of events that happened at numerous battlefronts. Battle for Britain, Falaise Pocket, Invasion of Kuwait and Operation Barbarossa — participate in battles using the vehicles that were used in these historic events and receive prizes!"
+    },
+    "2": {
       "link": "https://warthunder.com/en/news/8331-event-pages-of-history-july-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/pages_of_history_jule_378x213_8701d4f38f06acbe245b9d90b4f5ec5c.jpg",
       "title": "Pages of History (July)",
       "description": "In this month's Pages of History you'll find yourself at the center of events that happened at numerous battlefronts. Sicily and Normandy, Iran and Guam, Rzhev and Stalingrad — participate in battles using the vehicles that were used in these historic events and receive prizes!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8281-event-pages-of-history-june-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/catalina_378x213_f9ac9ad5712307483776980f4d983c7f.jpg",
-      "title": "Pages of History (June)",
-      "description": "In this month's Pages of History you'll find yourself in the center of events that happened at numerous battlefronts. Two of the more important Pacific battles, the landings in Normandy, and the beginning of Operation Barbarossa — participate in battles using the vehicles that were used in these historic events and receive prizes!"
     }
   },
   "changelogs": {
