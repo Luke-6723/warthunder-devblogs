@@ -47,16 +47,16 @@
       "description": "The beginning of the Closed Beta Test for the French Naval forces, new and updated graphical effects for flares, afterburners, rockets and missiles along with new hit marks on ground vehicles. More than 50 new or updated vehicles. Amongst them 14 new ships for the French Navy! But sailors are not the only ones to find something for themselves here! The Mighty F-14B, three different Sukhoi jets, the unusual M1 KVT tank or the first tank from India in WT - Vijayanta! Two new locations, fortifications mechanics, new weapons for aircraft and much more awaits you in La Royale update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1522",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/tank3_TW_7314ea4739f77af4bab46a789289a282.png",
+      "title": "Update 2.27.1.54",
+      "description": "An error that caused ATGMs to misfire after switching to another tank projectile has been fixed."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1521",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/su_25_378x213_be13a7bafbae13d2a438c20707496d75.jpg",
       "title": "Update 2.27.1.50",
       "description": "Su-25Т, Su-39 — an error that caused the inability to correct the course of a launched 9K127 Vikhr air-to-ground missile when using a Mercury targeting pod has been fixed."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1520",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/bf_x_lagg_anons_44e2a4a928a0a56de995b063ab80bb7e.jpg",
-      "title": "Update 2.27.1.46",
-      "description": "Changes to the sounds of rounds and shells hitting ground vehicles, flying by and ricochetting have been reverted and will be reworked. Sounds that were in the game until the 2.27.1.42 update were returned. We’ll continue to listen to your feedback on this."
     }
   }
 }
