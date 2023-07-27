@@ -47,16 +47,16 @@
       "description": "The beginning of the Closed Beta Test for the French Naval forces, new and updated graphical effects for flares, afterburners, rockets and missiles along with new hit marks on ground vehicles. More than 50 new or updated vehicles. Amongst them 14 new ships for the French Navy! But sailors are not the only ones to find something for themselves here! The Mighty F-14B, three different Sukhoi jets, the unusual M1 KVT tank or the first tank from India in WT - Vijayanta! Two new locations, fortifications mechanics, new weapons for aircraft and much more awaits you in La Royale update!"
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1525",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Helicopter/AH-1_Anons_f64a728be599384dd893b737b2d02688.jpg",
+      "title": "Update 2.27.1.62",
+      "description": "An error that caused lack of fragment damage to parts of helicopters/aircraft when fragmentation munitions with a calibre of 20 mm or higher exploded inside the fuselage and wings has been fixed. This error caused damage to be lower after we implemented the realistic fragment spread mechanic since the fragments could pass from inside a target to outside via fuselage and wings without dealing damage. Now the fragments spread correctly and deal the same damage as before the implementation of the realistic spread."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1524",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/f_100d_2560x1440_Anons_6a8cdda42f20c1da3ba49784f4dd1b2b.jpg",
       "title": "Update 2.27.1.57",
       "description": "Added Battle tasks for Tank and Aviation Simulation Battles."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1523",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Aircraft/anons_spit_d0516e4e632c25280bc473c1240cb35c.jpg",
-      "title": "Server Update 25.07.2023 (RoadMap)",
-      "description": "Changes related to RoadMap"
     }
   }
 }
