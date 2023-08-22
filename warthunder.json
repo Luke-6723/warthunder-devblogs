@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8412-development-mbt-2000-the-star-of-the-east-en",
+      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_378_mbt2000_bc1c90156031a283d8a6015898e3c5f5.jpg",
+      "title": "MBT-2000: The Star of the East",
+      "description": "Eastern exotics in War Thunder! Meet the MBT-2000 main battle tank designed in collaboration with China and Pakistan."
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8408-development-2s1-the-blast-blossom-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_2s1_c2a804a135f0b405186ba8d521bf90c1.jpg",
       "title": "2S1: The Blast Blossom",
       "description": "The first massively produced amphibious SPG, the Soviet 2S1, comes to the game in the upcoming War Thunder update!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8392-development-the-french-naval-cbt-is-over-meet-the-new-heavy-cruiser-dupleix-en",
       "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_378_cruiser_suffern_class_dupleix_25a2d2415510d8b9a5b35671330b5c2f.jpg",
       "title": "The French naval CBT is over! Meet the new heavy cruiser; Dupleix",
       "description": "We’re pleased to announce the end of the closed beta testing of the French bluewater navy and present a new French Premium heavy cruiser to boost your first steps in the mastering of the French ships!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8379-development-in-detail-air-event-markers-in-ground-arcade-battles-en",
-      "banner": "https://static.warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/ussr_repair378_213_aca12dddbcdfc1a70ef2856be2aa9ffc.jpg",
-      "title": "In Detail: Air event markers in Ground Arcade Battles",
-      "description": "Greetings, fighters! We continue to work on making our game better in all aspects, and today we’d like to present a new article type: In Detail. It will include both player suggestions and our ideas that we’d like to elaborate upon and discuss with you."
     }
   },
   "events": {
