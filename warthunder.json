@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8416-development-pvkv-iv-the-last-effort-en",
+      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_pvkv_iv_52e903c97a9de53a0d200a0ba9847dde.jpg",
+      "title": "Pvkv IV: the Last Effort",
+      "description": "The Pvkv IV is the final design of a series of experimental Swedish tank destroyers, developed in the postwar period in an effort to equip the armed forces with modern fighting vehicles. Soon, the Pvkv IV will reinforce the early ranks of the Swedish ground forces tree with its arrival as part of the next major War Thunder update!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8412-development-mbt-2000-the-star-of-the-east-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_378_mbt2000_bc1c90156031a283d8a6015898e3c5f5.jpg",
       "title": "MBT-2000: The Star of the East",
       "description": "Eastern exotics in War Thunder! Meet the MBT-2000 main battle tank designed in collaboration with China and Pakistan."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8408-development-2s1-the-blast-blossom-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_2s1_c2a804a135f0b405186ba8d521bf90c1.jpg",
       "title": "2S1: The Blast Blossom",
       "description": "The first massively produced amphibious SPG, the Soviet 2S1, comes to the game in the upcoming War Thunder update!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8392-development-the-french-naval-cbt-is-over-meet-the-new-heavy-cruiser-dupleix-en",
-      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_378_cruiser_suffern_class_dupleix_25a2d2415510d8b9a5b35671330b5c2f.jpg",
-      "title": "The French naval CBT is over! Meet the new heavy cruiser; Dupleix",
-      "description": "We’re pleased to announce the end of the closed beta testing of the French bluewater navy and present a new French Premium heavy cruiser to boost your first steps in the mastering of the French ships!"
     }
   },
   "events": {
