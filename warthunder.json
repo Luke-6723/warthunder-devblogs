@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8418-development-to-55-the-scorched-land-en",
+      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_to_55_dc3ec0d9b45652f0402647f280f02b8f.jpg",
+      "title": "TO-55: the Scorched Land",
+      "description": "The TO-55 is a Soviet flamethrower tank based on the T-55 medium tank coming to the game in the next major update!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8414-development-roadmap-following-the-roadmap-grouping-vehicles-rank-changes-and-improvements-to-premium-vehicles-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/wt_1_81_steam_378_27960be2163468b8f088eb92dc0e8dac.jpg",
       "title": "Following the Roadmap: grouping vehicles, rank changes, and improvements to premium vehicles",
       "description": "We’re continuing to move along with our Roadmap that we released back in June. First and foremost, we’d like to start off by saying thank you for your patience and understanding whilst we progress through it. Recently, after releasing other roadmap changes, we’ve noticed your anticipation and enthusiasm about progression changes and today we’re pleased to announce that we’re ready to talk about these changes with you."
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8416-development-pvkv-iv-the-last-effort-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_pvkv_iv_52e903c97a9de53a0d200a0ba9847dde.jpg",
       "title": "Pvkv IV: the Last Effort",
       "description": "The Pvkv IV is the final design of a series of experimental Swedish tank destroyers, developed in the postwar period in an effort to equip the armed forces with modern fighting vehicles. Soon, the Pvkv IV will reinforce the early ranks of the Swedish ground forces tree with its arrival as part of the next major War Thunder update!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8412-development-mbt-2000-the-star-of-the-east-en",
-      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_378_mbt2000_bc1c90156031a283d8a6015898e3c5f5.jpg",
-      "title": "MBT-2000: The Star of the East",
-      "description": "Eastern exotics in War Thunder! Meet the MBT-2000 main battle tank designed in collaboration with China and Pakistan."
     }
   },
   "events": {
