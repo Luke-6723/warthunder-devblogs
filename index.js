@@ -132,7 +132,8 @@ ${updates?.devblogs[0]?.description}
     });
   }
 
-  if (storeUpdates?.devblogs[1]?.title !== updates?.devblogs[1]?.title) {
+  // if (storeUpdates?.devblogs[1]?.title !== updates?.devblogs[1]?.title) {
+  if (1 === 2) {
     console.log('Update on DevBlogs');
 
     await axios.post(webhookURL, {
