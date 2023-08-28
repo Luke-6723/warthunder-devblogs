@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8425-development-amx-10m-a-familiar-beast-en",
+      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_amx_10m_acra_921d678f0104c57c502f590d75e346dd.jpg",
+      "title": "AMX-10M: A Familiar Beast",
+      "description": "A formidable vehicle comes to the game: meet the AMX-10M, a French SPG that was specifically designed to fire anti-tank guided missiles!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8419-development-uss-texas-bb-35-the-first-and-the-last-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_378_battleship_texas_82b5340d7bba378b9e9069ebf39ac363.jpg",
       "title": "USS Texas (BB-35): The First and the Last",
       "description": "USS Texas is one of two New York-class battleships constructed for the U.S. Navy prior to the outbreak of WWI. Considered as one of the most powerful warships at the time of its construction, in its 1945 configuration the USS Texas will soon reinforce the top rank of the American bluewater fleet in War Thunder as it docks in player ports with the arrival of the next major update!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8418-development-to-55-the-scorched-land-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_to_55_dc3ec0d9b45652f0402647f280f02b8f.jpg",
       "title": "TO-55: the Scorched Land",
       "description": "The TO-55 is a Soviet flamethrower tank based on the T-55 medium tank coming to the game in the next major update!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8414-development-roadmap-following-the-roadmap-grouping-vehicles-rank-changes-and-improvements-to-premium-vehicles-en",
-      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/wt_1_81_steam_378_27960be2163468b8f088eb92dc0e8dac.jpg",
-      "title": "Following the Roadmap: grouping vehicles, rank changes, and improvements to premium vehicles",
-      "description": "We’re continuing to move along with our Roadmap that we released back in June. First and foremost, we’d like to start off by saying thank you for your patience and understanding whilst we progress through it. Recently, after releasing other roadmap changes, we’ve noticed your anticipation and enthusiasm about progression changes and today we’re pleased to announce that we’re ready to talk about these changes with you."
     }
   },
   "events": {

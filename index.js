@@ -132,36 +132,6 @@ ${updates?.devblogs[0]?.description}
     });
   }
 
-  // if (storeUpdates?.devblogs[1]?.title !== updates?.devblogs[1]?.title) {
-  if (1 === 2) {
-    console.log('Update on DevBlogs');
-
-    await axios.post(webhookURL, {
-      embeds: [{
-        author: {
-          name: 'War Thunder News'
-        },
-        url: updates?.devblogs[1]?.link,
-        title: `[Dev Blog] ${updates?.devblogs[1]?.title}`,
-        description: `
-${updates?.devblogs[1]?.description}
-
-[Link to update](${updates?.devblogs[1]?.link})`,
-        color: embedColor,
-        thumbnail: {
-          url: warthunderLogo
-        },
-        image: {
-          url: updates?.devblogs[1]?.banner
-        }
-      }]
-    }, {
-      headers: {
-        'Content-Type': 'application/json'
-      }
-    });
-  }
-
   /**
     * Changelogs
    */
@@ -274,5 +244,6 @@ ${updates?.events[0]?.description}
   writeFile('./warthunder.json', JSON.stringify(updates, null, 2));
   browser.close();
   console.timeEnd('Warthunder News Fetcher');
+  process.exit(0)
 
 })();
