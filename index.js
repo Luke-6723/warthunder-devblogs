@@ -85,6 +85,7 @@ function handlePosts (type, page) {
   });
   // Load Devblogs
   const page = await browser.newPage();
+  await page.setDefaultNavigationTimeout(0); 
 
   await page.setJavaScriptEnabled(true);
   await page.setViewport({
