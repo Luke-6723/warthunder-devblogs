@@ -243,9 +243,10 @@ ${updates?.events[0]?.description}
   }
 
   // Update json file and close browser
-  writeFile('./warthunder.json', JSON.stringify(updates, null, 2));
-  browser.close();
-  console.timeEnd('Warthunder News Fetcher');
-  process.exit(0)
+  writeFile('./warthunder.json', JSON.stringify(updates, null, 2)).then(_ => {
+    browser.close();
+    console.timeEnd('Warthunder News Fetcher');
+    process.exit(0)
+  });
 
 })();
