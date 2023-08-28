@@ -105,7 +105,7 @@ function handlePosts (type, page) {
 
   await handlePosts('devblogs', page);
 
-  if (storeUpdates?.devblogs[0]?.title !== updates?.devblogs[0]?.title) {
+  if (storeUpdates?.devblogs?.[0]?.title !== updates?.devblogs[0]?.title) {
     console.log('Update on DevBlogs');
 
     await axios.post(webhookURL, {
@@ -147,7 +147,7 @@ ${updates?.devblogs[0]?.description}
 
   const embeds = [];
   // Major update check
-  if (storeUpdates?.changelogs[0]?.title !== updates?.changelogs[0]?.title) {
+  if (storeUpdates?.changelogs?.[0]?.title !== updates?.changelogs[0]?.title) {
     console.log('Update on Changelogs [Major Update]');
     embeds.push({
       author: {
@@ -169,7 +169,7 @@ ${updates?.changelogs[0]?.description}
     });
   }
 
-  if (storeUpdates?.changelogs[1]?.title !== updates?.changelogs[1]?.title) {
+  if (storeUpdates?.changelogs?.[1]?.title !== updates?.changelogs[1]?.title) {
     console.log('Update on Changelogs [Minor Update]');
 
     embeds.push({
@@ -213,7 +213,7 @@ ${updates?.changelogs[1]?.description}
 
   await handlePosts('events', page);
 
-  if (storeUpdates?.events[0]?.title !== updates?.events[0]?.title) {
+  if (storeUpdates?.events?.[0]?.title !== updates?.events[0]?.title) {
     console.log('Update on events');
 
     axios.post(webhookURL, {
