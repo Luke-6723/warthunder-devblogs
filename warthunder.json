@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8435-development-pre-order-vidar-divine-vengeance-en",
+      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_378_k9_vidar_abcea06a130e6c675e428f915e465c63.jpg",
+      "title": "Pre-Order: VIDAR: Divine Vengeance",
+      "description": "The VIDAR is an export variant of the South Korean K9 Thunder self-propelled gun, developed during the mid 2010s as a replacement for outdated equipment used by the Norwegian Army at the time. Soon, the powerful VIDAR will join the ranks of the Swedish ground forces tree as a new premium ground vehicle arriving as part of the next major update!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8429-development-f-16c-block-50-the-more-the-merrier-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_378_f_16c_block50_70e4de5b2150e682e7d9894e633e74a6.jpg",
       "title": "F-16C Block 50: The More The Merrier!",
       "description": "The F-16C Block 50 is a further developed variant of the famous F-16 multi-role fighter — featuring a new engine and new guided weapons. Meet this exciting jet fighter, coming to War Thunder in the next major update!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8427-development-squadron-vehicles-t-90-bhishma-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_378_t_90s_bheeshma_a981f9c7c9bf80226f7c72e5ae4a9038.jpg",
       "title": "Squadron vehicles: T-90 Bhishma",
       "description": "A special version of the T-90 main battle tank that is in service with the Indian Army comes to the game as a new squadron vehicle, available in the upcoming major War Thunder update!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8425-development-amx-10m-a-familiar-beast-en",
-      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_amx_10m_acra_921d678f0104c57c502f590d75e346dd.jpg",
-      "title": "AMX-10M: A Familiar Beast",
-      "description": "A formidable vehicle comes to the game: meet the AMX-10M, a French SPG that was specifically designed to fire anti-tank guided missiles!"
     }
   },
   "events": {
