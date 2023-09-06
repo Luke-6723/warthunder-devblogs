@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8445-development-improved-chaparral-oppa-chaparral-style-en",
+      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_378_mim_72_chaparral_1a6f966f2d9d9849f85796136fe11607.jpg",
+      "title": "Improved Chaparral: Oppa Chaparral Style!",
+      "description": "The Improved Chaparral SAM will help strengthen the ranks of the US and Israeli ground forces trees when it comes to War Thunder in the upcoming major update!"
+    },
+    "1": {
+      "link": "https://warthunder.com/en/news/8442-development-mi-8tv-a-good-mate-to-have-en",
+      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Helicopter/_thumbs/520x/anons_mi_8tv_2e7af670a8ce89f9025fe3b215297388.jpg",
+      "title": "Mi-8TV: A Good Mate To Have",
+      "description": "The assault modification of the multi-purpose Mi-8 helicopter was envisioned as a \"flying IFV\" (Infantry Fighting Vehicle) with combat capabilities close to that of dedicated attack helicopters."
+    },
+    "2": {
       "link": "https://warthunder.com/en/news/8439-development-rank-vi-bluewater-fleet-and-pre-order-for-premium-battleships-arkansas-and-marat-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_378_battleship_arkansas_3d32d3934dd9c3f399f160e607b3429d.jpg",
       "title": "Rank VI Bluewater fleet and pre-order for premium battleships: Arkansas and Marat!",
       "description": "In the upcoming major update, we’re going to be introducing a new rank for Bluewater ships: rank VI!"
-    },
-    "1": {
-      "link": "https://warthunder.com/en/news/8432-development-new-locations-rocky-pillars-and-test-site-2271-en",
-      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Locations/_thumbs/520x/anounce_378_bec79bd23f0199cf713a55877d963957.jpg",
-      "title": "New Locations: “Rocky Pillars” and “Test Site — 2271”",
-      "description": "We’re excited to bring you the first screenshots of two new locations that will be arriving to War Thunder in the next major update: “Rocky Pillars” for aviation, and “Test Site — 2271” for mixed battles!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8431-development-39-m-csaba-the-youngest-son-en",
-      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_39m_csaba_1e08840f4a2bb05adfb7eda145919460.jpg",
-      "title": "39.M Csaba: The Youngest Son",
-      "description": "The 39.М Csaba armored car is the first researchable vehicle of the Hungarian armored vehicles lineup!"
     }
   },
   "events": {
