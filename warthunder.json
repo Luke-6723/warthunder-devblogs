@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8451-development-new-visual-effects-in-the-sons-of-attila-update-en",
+      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Other/_thumbs/520x/shot%202023.09.06%2016.38.56_Anons_f57dc6ace2811d9d856f0fdc255469c1.jpg",
+      "title": "New visual effects in the Sons of Attila update!",
+      "description": "Today, we’d like to share with you some of the new features and effects coming to War Thunder in the upcoming “Sons of Attila” major update!"
+    },
+    "1": {
+      "link": "https://warthunder.com/en/news/8448-development-leopard-2-pso-urban-warfare-tactics-en",
+      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_378_leopard_2_pso_1ed20c739e84ea8d9ab25231454e8177.jpg",
+      "title": "Leopard 2 PSO: Urban Warfare Tactics",
+      "description": "A special version of the Leopard 2 series tank, which has been specifically designed for urban combat, featuring improved defensive capabilities. Meet this new German top-tier tank, coming in the “Sons of Attila” update!"
+    },
+    "2": {
       "link": "https://warthunder.com/en/news/8445-development-improved-chaparral-oppa-chaparral-style-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_378_mim_72_chaparral_1a6f966f2d9d9849f85796136fe11607.jpg",
       "title": "Improved Chaparral: Oppa Chaparral Style!",
       "description": "The Improved Chaparral SAM will help strengthen the ranks of the US and Israeli ground forces trees when it comes to War Thunder in the upcoming major update!"
-    },
-    "1": {
-      "link": "https://warthunder.com/en/news/8442-development-mi-8tv-a-good-mate-to-have-en",
-      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Helicopter/_thumbs/520x/anons_mi_8tv_2e7af670a8ce89f9025fe3b215297388.jpg",
-      "title": "Mi-8TV: A Good Mate To Have",
-      "description": "The assault modification of the multi-purpose Mi-8 helicopter was envisioned as a \"flying IFV\" (Infantry Fighting Vehicle) with combat capabilities close to that of dedicated attack helicopters."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8439-development-rank-vi-bluewater-fleet-and-pre-order-for-premium-battleships-arkansas-and-marat-en",
-      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Navy/_thumbs/520x/anons_378_battleship_arkansas_3d32d3934dd9c3f399f160e607b3429d.jpg",
-      "title": "Rank VI Bluewater fleet and pre-order for premium battleships: Arkansas and Marat!",
-      "description": "In the upcoming major update, we’re going to be introducing a new rank for Bluewater ships: rank VI!"
     }
   },
   "events": {
