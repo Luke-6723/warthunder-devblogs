@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8466-development-updated-rwr-more-realism-and-features-en",
+      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/__warthunder.com_upload_image__wallpapers_3840x2160_no_logo_940px_Anons_816e8bc99c8fbe587cd7eab2547cfcd0.jpg",
+      "title": "Updated RWR — More realism and features!",
+      "description": "Today, we’re going to tell you about the work that we have been doing to improve Radar Warning Receivers (RWR)! These improvements will come to the game very soon in the next major update, “Sons of Attila”!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8462-development-super-etendard-thirsty-for-battle-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_378_super_etendard_97_5ff4351fb182963f08586bd67f323575.jpg",
       "title": "Super Etendard: Thirsty For Battle",
       "description": "The Super Etendard is a fast and maneuverable aircraft that can be configured for all types of combat: ground strikes as well as air combat. This interesting aircraft will appear in the French research tree in the upcoming “Sons of Atilla” major update!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8460-development-mig-29smt-strike-from-beyond-the-horizon-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Aircraft/_thumbs/520x/anons_mig_29smt_9_19_cd1df26896dce665a82fa55d5d566bc1.jpg",
       "title": "MiG-29SMT: Strike From Beyond The Horizon",
       "description": "The MiG-29SMT multi-role jet fighter will arrive at the top of the line in the Soviet research tree. This highly advanced combat aircraft will appear in the next major update, “Sons of Attila”!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8458-development-kf41-the-majestic-lynx-en",
-      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/anons_378_kf41_7de699cabd7e26a601bb264d8bcdfd1b.jpg",
-      "title": "KF41: The Majestic Lynx",
-      "description": "The KF41 is a cutting-edge IFV design developed by Rheinmetall in the mid 2010s in order to provide potential operators with a well protected combat vehicle. Soon, the KF41 will make its debut in War Thunder as part of the upcoming “Sons of Attila” major update!"
     }
   },
   "events": {
