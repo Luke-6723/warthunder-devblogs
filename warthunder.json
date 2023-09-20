@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8484-development-tokushu-heiki-f-100f-super-sabre-en",
+      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/anons_378_f_100f_1817741404d766a4b1a601c8b3b74543_519x293_390542cbfe9c801e4034e95bfa2d4e6a.jpg",
+      "title": "Tokushu Heiki: F-100F Super Sabre",
+      "description": "The F-100F is a twin-seater version of the well-known Super Sabre jet fighter, developed with a focus on combat training operations. Soon, you’ll be able to obtain this unique aircraft by taking part in the upcoming Tokushu Heiki event!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8479-development-barak-ii-lightning-over-the-desert-en",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/anons_378_f_16d_block_40_barak_2_f79ca04d6f1e0068b11b2583c0ac6d26_519x293_fdbc59b8a497b201ca196657091cbbd1.jpg",
       "title": "Barak II: Lightning Over The Desert",
       "description": "In the “Sons of Attila” major update, an Israeli modification of the F-16D two-seater fighter jet, lock and loaded to use modern high-precision weapons, will come to the top of the Israeli aircraft research tree as a flagship jet!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8472-development-heinkel-he-115-c-1-the-flying-magician-en",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/anons_he_115c_1_d899c33dbb96bf9950d5ae580df62dac_519x293_2fd5805e05ea0b4dc52aa9406c65692c.jpg",
       "title": "Heinkel He 115 C-1: The Flying Magician",
       "description": "The He 115 is a German twin-engined seaplane, developed by Heinkel in the mid 1930s, which saw widespread use during operations in WWII. Soon, the He 115 will arrive in one of its later modifications to the early ranks of the German aviation tree as part of the next major update “Sons of Attila”!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8469-development-leclerc-azur-action-in-urban-areas-en",
-      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_leclerc_azur_54dd95680f925e26cfad488a284e3561_519x293_f1eafc3bba872f27179084d06c64dfa4.jpg",
-      "title": "Leclerc AZUR: Action In Urban Areas",
-      "description": "A special version of the already well-known Leclerc MBT! The AZUR variant is fitted for urban combat environments, and will be coming to the French ground forces tree at the end of the Leclerc MBT line in the Sons of Attila major update!"
     }
   },
   "events": {
@@ -47,16 +47,16 @@
       "description": "A vast amount of vehicles, fixes and anticipated Roadmap additions have now been implemented! Flagship jets: F-16C Block 50, Barak II and MiG-29SMT, plus jets for other nations. Italy has gained the Hungarian branch, which includes 11 ground vehicles starting from the Csaba and ending at the KF41, as well as 3 helicopters. The first South Korean vehicle, the VIDAR — which arrives as an export variant used by Norway — also comes to the Swedish tree! The visual effects of wind, smoke and ammo detonations plus more have also been improved, as well as a rank VI Bluewater and 3 premium Battleships have arrived. Two new maps, including the return of “Test Site — 2271”, are also here."
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1538",
+      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/Germany_2_446bba2af6987983049daf5e3a9ab220.jpg",
+      "title": "Update 2.29.0.31",
+      "description": "A bug that caused dropping bombs in series to not work with the “Bomb series” option disabled in the settings has been fixed."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1535",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/ussr_anons_9198fb35004d33841f4141d6e8b3a169.jpg",
       "title": "Update 2.27.2.51",
       "description": "A bug that caused a brief display of night vision in third-person view when switching the camera from third-person to sniper mode has been fixed."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1534",
-      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/UK_4_Anons_57aab59c1c76efb6737b4d7d4e91e52a.jpg",
-      "title": "Update 2.27.2.47",
-      "description": "The minimum Battle Rating of sessions in which strike UAVs are available has been increased from 10.7 to 11.3."
     }
   }
 }
