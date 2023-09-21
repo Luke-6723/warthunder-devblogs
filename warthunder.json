@@ -47,16 +47,16 @@
       "description": "A vast amount of vehicles, fixes and anticipated Roadmap additions have now been implemented! Flagship jets: F-16C Block 50, Barak II and MiG-29SMT, plus jets for other nations. Italy has gained the Hungarian branch, which includes 11 ground vehicles starting from the Csaba and ending at the KF41, as well as 3 helicopters. The first South Korean vehicle, the VIDAR — which arrives as an export variant used by Norway — also comes to the Swedish tree! The visual effects of wind, smoke and ammo detonations plus more have also been improved, as well as a rank VI Bluewater and 3 premium Battleships have arrived. Two new maps, including the return of “Test Site — 2271”, are also here."
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1539",
+      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/279_Anons_fcdaeb5d6b9dbb6c4ba1f715f6527181.jpg",
+      "title": "Update 2.29.0.35",
+      "description": "Numerous bug fixes"
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1538",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/Germany_2_446bba2af6987983049daf5e3a9ab220.jpg",
       "title": "Update 2.29.0.31",
       "description": "A bug that caused dropping bombs in series to not work with the “Bomb series” option disabled in the settings has been fixed."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1535",
-      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/ussr_anons_9198fb35004d33841f4141d6e8b3a169.jpg",
-      "title": "Update 2.27.2.51",
-      "description": "A bug that caused a brief display of night vision in third-person view when switching the camera from third-person to sniper mode has been fixed."
     }
   }
 }
