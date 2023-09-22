@@ -47,16 +47,16 @@
       "description": "A vast amount of vehicles, fixes and anticipated Roadmap additions have now been implemented! Flagship jets: F-16C Block 50, Barak II and MiG-29SMT, plus jets for other nations. Italy has gained the Hungarian branch, which includes 11 ground vehicles starting from the Csaba and ending at the KF41, as well as 3 helicopters. The first South Korean vehicle, the VIDAR — which arrives as an export variant used by Norway — also comes to the Swedish tree! The visual effects of wind, smoke and ammo detonations plus more have also been improved, as well as a rank VI Bluewater and 3 premium Battleships have arrived. Two new maps, including the return of “Test Site — 2271”, are also here."
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1541",
+      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Helicopter/art_eurocopters_Anons_1592bc4112583c545cc199f7e5516899.jpg",
+      "title": "Update 2.29.0.38",
+      "description": "A bug that caused flag names and icons to not update when changing camouflage has been fixed.\nA bug where during a test drive or flight, ammo fired from vehicles was swapped, for example a tank’s machine gun could fire smoke grenades and aircraft missiles fired flares, has been fixed."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1540",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/fritz_x_Anons_d70eae24f8810b42c4970cb8ae998faa.jpg",
       "title": "Server Update 22.09.2023",
       "description": "The progress of Steam achievements is now displayed."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1539",
-      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/279_Anons_fcdaeb5d6b9dbb6c4ba1f715f6527181.jpg",
-      "title": "Update 2.29.0.35",
-      "description": "Numerous bug fixes"
     }
   }
 }
