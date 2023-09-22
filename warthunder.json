@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8491-development-tokushu-heiki-losat-en",
+      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_losat_ccv_fcca5f93cdcc9f446712d9cbe0b09fa7_519x293_49f63bd109d37f92b2ddaf8934fe8703.jpg",
+      "title": "Tokushu Heiki: LOSAT",
+      "description": "Ever heard of an ATGM that doesn’t use a shaped charge? Well meet the American LOSAT tank destroyer — equipped with guided missiles that feature a kinetic penetrator!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8488-development-tokushu-heiki-battlecruiser-kurama-en",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Navy/_thumbs/519x293/anons_armoredcruiser_kurama_c168f9aeb846578896b22fb4b5f34195_519x293_113c0d4569c14f9359004f919f41371f.jpg",
       "title": "Tokushu Heiki: Battlecruiser Kurama",
       "description": "Battlecruiser Kurama, the most advanced Ibuki-class ship, will be the grand naval prize of the upcoming Tokushu Heiki event!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8486-development-spitfire-cockpits-get-a-makeover-en",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/Spitfire_378_86cf5dd04f5fad70801a0f970105035e_519x293_e64b660816de7255d6f8b781896180d7.jpg",
       "title": "Spitfire Cockpits Get A Makeover!",
       "description": "In the “Sons of Attila” major update, several older Spitfire cockpits have been updated. Let’s take a look!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8484-development-tokushu-heiki-f-100f-super-sabre-en",
-      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/anons_378_f_100f_1817741404d766a4b1a601c8b3b74543_519x293_390542cbfe9c801e4034e95bfa2d4e6a.jpg",
-      "title": "Tokushu Heiki: F-100F Super Sabre",
-      "description": "The F-100F is a twin-seater version of the well-known Super Sabre jet fighter, developed with a focus on combat training operations. Soon, you’ll be able to obtain this unique aircraft by taking part in the upcoming Tokushu Heiki event!"
     }
   },
   "events": {
