@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8492-development-tokushu-heiki-ki-48-ii-otsu-ki-148-missile-en",
+      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/anons_378_ki_48_2_otsu_1b8e9d4cc2c854350718397569b1664d_519x293_1e1e7679d7e843f2e0e2af72bbeb3973.jpg",
+      "title": "Tokushu Heiki: Ki-48-II Otsu & Ki-148 Missile",
+      "description": "The Ki-48-II is a late modification of the prolific Japanese Ki-48 light bomber, more commonly known under the allied reporting name of \"Lily\". During the tail end of the war, this aircraft was specifically used as a testbed for an experimental guided missile. Soon you’ll be able to obtain this aircraft along with its unique weaponry by taking part in the upcoming Tokushu Heiki crafting event!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8491-development-tokushu-heiki-losat-en",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_losat_ccv_fcca5f93cdcc9f446712d9cbe0b09fa7_519x293_49f63bd109d37f92b2ddaf8934fe8703.jpg",
       "title": "Tokushu Heiki: LOSAT",
       "description": "Ever heard of an ATGM that doesn’t use a shaped charge? Well meet the American LOSAT tank destroyer — equipped with guided missiles that feature a kinetic penetrator!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8488-development-tokushu-heiki-battlecruiser-kurama-en",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Navy/_thumbs/519x293/anons_armoredcruiser_kurama_c168f9aeb846578896b22fb4b5f34195_519x293_113c0d4569c14f9359004f919f41371f.jpg",
       "title": "Tokushu Heiki: Battlecruiser Kurama",
       "description": "Battlecruiser Kurama, the most advanced Ibuki-class ship, will be the grand naval prize of the upcoming Tokushu Heiki event!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8486-development-spitfire-cockpits-get-a-makeover-en",
-      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/Spitfire_378_86cf5dd04f5fad70801a0f970105035e_519x293_e64b660816de7255d6f8b781896180d7.jpg",
-      "title": "Spitfire Cockpits Get A Makeover!",
-      "description": "In the “Sons of Attila” major update, several older Spitfire cockpits have been updated. Let’s take a look!"
     }
   },
   "events": {
