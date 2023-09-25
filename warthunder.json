@@ -21,22 +21,22 @@
   },
   "events": {
     "0": {
+      "link": "https://warthunder.com/en/news/8495-event-pages-of-history-october-en",
+      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/centurion_mk10_378x213_109a0e8d1b78dcb73450848fdc1388d9_519x293_2bde846dc020f0b63058f8ae633623dd.jpg",
+      "title": "Pages of History (October)",
+      "description": "In this month's Pages of History, you'll find yourself at the centre of events that happened at numerous battlefronts. From Hungary and the Netherlands, to Israel and the Solomon Islands — participate in battles using the vehicles that were used in these historic events and receive prizes!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8426-event-pages-of-history-september-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/378_213_52f8ff185e6a61208259f6c32a7213a2.jpg",
       "title": "Pages of History (September)",
       "description": "In this month's Pages of History you'll find yourself at the centre of events that happened at numerous battlefronts. From battles in WWII to conflicts of the 1960s and 1980s — participate in battles using the vehicles that were used in these historic events and receive prizes!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8384-event-summer-extreme-en",
       "banner": "https://warthunder.com/upload/image//0_2022_Anons/_thumbs/520x/anons_378_summer_marathon_2023_e7b51ee0e23e1d95dc8328dd17c9ea9d.jpg",
       "title": "Summer Extreme",
       "description": "Hot summer is the perfect time for extreme sports! Ride the wind using a wingsuit or a paraglider, conquer the waves on a board or a jet ski, explore the off-road wilderness on a bike or perform tricks on a skateboard — whichever you prefer, you’ll be able to show off your hobby in War Thunder thanks to new sets of thematic decals and decorations that you’ll be able to receive in the Summer Extreme event!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8366-event-pages-of-history-august-en",
-      "banner": "https://warthunder.com/upload/image//0_2022_Anons/Ground/_thumbs/520x/art_t72av_turms_378x213_9825989432d5d041532d2b4160a5dce1.jpg",
-      "title": "Pages of History (August)",
-      "description": "In this month's Pages of History you'll find yourself at the centre of events that happened at numerous battlefronts. Battle for Britain, Falaise Pocket, Invasion of Kuwait and Operation Barbarossa — participate in battles using the vehicles that were used in these historic events and receive prizes!"
     }
   },
   "changelogs": {
