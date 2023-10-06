@@ -47,16 +47,16 @@
       "description": "A vast amount of vehicles, fixes and anticipated Roadmap additions have now been implemented! Flagship jets: F-16C Block 50, Barak II and MiG-29SMT, plus jets for other nations. Italy has gained the Hungarian branch, which includes 11 ground vehicles starting from the Csaba and ending at the KF41, as well as 3 helicopters. The first South Korean vehicle, the VIDAR — which arrives as an export variant used by Norway — also comes to the Swedish tree! The visual effects of wind, smoke and ammo detonations plus more have also been improved, as well as a rank VI Bluewater and 3 premium Battleships have arrived. Two new maps, including the return of “Test Site — 2271”, are also here."
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1546",
+      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/art_mig_21_Anons_342617dcfba35108354682d8599a2141.jpg",
+      "title": "Update 2.29.0.88",
+      "description": "A bug that caused aircraft models at a distance to flicker when the aircraft was against a cloud backdrop has been fixed."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1545",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/harrier_Anons_fec86a20942694368194c5e11431501d.jpg",
       "title": "Update 2.29.0.84",
       "description": "Numerous bug fixes"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1544",
-      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/yak_141_Anons_10951ac74063aa5a170acb57a9de608e.jpg",
-      "title": "Update 2.29.0.77",
-      "description": "KF41 a bug causing fired shells to not align with the crosshair has been fixed."
     }
   }
 }
