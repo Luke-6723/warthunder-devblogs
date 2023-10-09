@@ -27,16 +27,16 @@
       "description": "The wait is over — the crafting event has returned, and this time we’ve got some very interesting vehicles coming which have already had dev blogs! To sum it up, build the Ki-148 missile (called the Tokushu Heiki in this event) from WWII, test its flight performance in a special flight test mission, then prepare and create a report which can be exchanged for exclusive prizes during this event!"
     },
     "1": {
+      "link": "https://warthunder.com/en/news/8511-event-battle-of-the-caucasus-a-decal-and-decoration-for-the-80th-anniversary-en",
+      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/anons_378_end_battle_caucasus_3e7df06c3d01ae6c3b7cb45c77759455_519x293_a698b5e42661bdb0c6b2dd13ea6fd604.jpg",
+      "title": "Battle of the Caucasus: A Decal and Decoration for the 80th Anniversary!",
+      "description": "From the summer of 1942, determined Axis forces launched an offensive into the Caucasus region in a bid to capture key locations. In 2 months, they managed to advance to Mozdok, but then hit a barrier — they were stopped from advancing further by the Soviets. From the beginning of 1943, Soviet troops squeezed out Axis forces from many occupied locations. Then, by October 9th 1943, all Axis troops were evacuated from the region, therefore full control of these locations were returned to the Soviets."
+    },
+    "2": {
       "link": "https://warthunder.com/en/news/8495-event-pages-of-history-october-en",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/centurion_mk10_378x213_109a0e8d1b78dcb73450848fdc1388d9_519x293_2bde846dc020f0b63058f8ae633623dd.jpg",
       "title": "Pages of History (October)",
       "description": "In this month's Pages of History, you'll find yourself at the centre of events that happened at numerous battlefronts. From Hungary and the Netherlands, to Israel and the Solomon Islands — participate in battles using the vehicles that were used in these historic events and receive prizes!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8426-event-pages-of-history-september-en",
-      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/520x/378_213_52f8ff185e6a61208259f6c32a7213a2.jpg",
-      "title": "Pages of History (September)",
-      "description": "In this month's Pages of History you'll find yourself at the centre of events that happened at numerous battlefronts. From battles in WWII to conflicts of the 1960s and 1980s — participate in battles using the vehicles that were used in these historic events and receive prizes!"
     }
   },
   "changelogs": {
@@ -47,16 +47,16 @@
       "description": "A vast amount of vehicles, fixes and anticipated Roadmap additions have now been implemented! Flagship jets: F-16C Block 50, Barak II and MiG-29SMT, plus jets for other nations. Italy has gained the Hungarian branch, which includes 11 ground vehicles starting from the Csaba and ending at the KF41, as well as 3 helicopters. The first South Korean vehicle, the VIDAR — which arrives as an export variant used by Norway — also comes to the Swedish tree! The visual effects of wind, smoke and ammo detonations plus more have also been improved, as well as a rank VI Bluewater and 3 premium Battleships have arrived. Two new maps, including the return of “Test Site — 2271”, are also here."
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1547",
+      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Navy/cruiser_prinz_eugen_xbox_378_f3053f2de80bbcf8c9f9b8cc9cced0e3.jpg",
+      "title": "Update 2.29.0.91",
+      "description": "A bug where items in the Tokushu Heiki Workshop window did not update after interacting with them has been fixed."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1546",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/art_mig_21_Anons_342617dcfba35108354682d8599a2141.jpg",
       "title": "Update 2.29.0.88",
       "description": "A bug that caused aircraft models at a distance to flicker when the aircraft was against a cloud backdrop has been fixed."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1545",
-      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/harrier_Anons_fec86a20942694368194c5e11431501d.jpg",
-      "title": "Update 2.29.0.84",
-      "description": "Numerous bug fixes"
     }
   }
 }
