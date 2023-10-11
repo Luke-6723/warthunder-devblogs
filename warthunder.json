@@ -47,16 +47,16 @@
       "description": "A vast amount of vehicles, fixes and anticipated Roadmap additions have now been implemented! Flagship jets: F-16C Block 50, Barak II and MiG-29SMT, plus jets for other nations. Italy has gained the Hungarian branch, which includes 11 ground vehicles starting from the Csaba and ending at the KF41, as well as 3 helicopters. The first South Korean vehicle, the VIDAR — which arrives as an export variant used by Norway — also comes to the Swedish tree! The visual effects of wind, smoke and ammo detonations plus more have also been improved, as well as a rank VI Bluewater and 3 premium Battleships have arrived. Two new maps, including the return of “Test Site — 2271”, are also here."
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1548",
+      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/anonce_vrcc_centauro_378_6da5347c373e08635162e08e0d2e5b6f.jpg",
+      "title": "Update 2.29.0.94",
+      "description": "Now, when tracking missiles and bombs through the tracking camera, the camera is better directed at the target, making it easier to see where your fired ordnance is going."
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1547",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Navy/cruiser_prinz_eugen_xbox_378_f3053f2de80bbcf8c9f9b8cc9cced0e3.jpg",
       "title": "Update 2.29.0.91",
       "description": "A bug where items in the Tokushu Heiki Workshop window did not update after interacting with them has been fixed."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1546",
-      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/art_mig_21_Anons_342617dcfba35108354682d8599a2141.jpg",
-      "title": "Update 2.29.0.88",
-      "description": "A bug that caused aircraft models at a distance to flicker when the aircraft was against a cloud backdrop has been fixed."
     }
   }
 }
