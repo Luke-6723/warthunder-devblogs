@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8515-development-vickers-mk11-the-wheeled-behemoth-en",
+      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_vickers_mk_11_39ff5490320a117acbd532afeb27db37_519x293_2aef8773ddf7d0d5b80c2cc194a48bb8.jpg",
+      "title": "Vickers Mk.11: The Wheeled Behemoth",
+      "description": "The Vickers Mk.11 is a prototype wheeled combat vehicle developed by British company Vickers as part of a private venture in response to an Australian requirement in the 1990s, this vehicle will arrive in the game with the next War Thunder update!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8492-development-tokushu-heiki-ki-48-ii-otsu-ki-148-missile-en",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/anons_378_ki_48_2_otsu_1b8e9d4cc2c854350718397569b1664d_519x293_1e1e7679d7e843f2e0e2af72bbeb3973.jpg",
       "title": "Tokushu Heiki: Ki-48-II Otsu & Ki-148 Missile",
       "description": "The Ki-48-II is a late modification of the prolific Japanese Ki-48 light bomber, more commonly known under the allied reporting name of \"Lily\". During the tail end of the war, this aircraft was specifically used as a testbed for an experimental guided missile. Soon you’ll be able to obtain this aircraft along with its unique weaponry by taking part in the upcoming Tokushu Heiki crafting event!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8491-development-tokushu-heiki-losat-en",
       "banner": "https://warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_losat_ccv_fcca5f93cdcc9f446712d9cbe0b09fa7_519x293_49f63bd109d37f92b2ddaf8934fe8703.jpg",
       "title": "Tokushu Heiki: LOSAT",
       "description": "Ever heard of an ATGM that doesn’t use a shaped charge? Well meet the American LOSAT tank destroyer — equipped with guided missiles that feature a kinetic penetrator!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8488-development-tokushu-heiki-battlecruiser-kurama-en",
-      "banner": "https://warthunder.com/upload/image/0_2022_Anons/Navy/_thumbs/519x293/anons_armoredcruiser_kurama_c168f9aeb846578896b22fb4b5f34195_519x293_113c0d4569c14f9359004f919f41371f.jpg",
-      "title": "Tokushu Heiki: Battlecruiser Kurama",
-      "description": "Battlecruiser Kurama, the most advanced Ibuki-class ship, will be the grand naval prize of the upcoming Tokushu Heiki event!"
     }
   },
   "events": {
