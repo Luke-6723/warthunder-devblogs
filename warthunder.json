@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8520-roadmapdevelopment-following-the-roadmap-wed-like-to-hear-your-feedback-on-our-proposed-aircraft-destruction-mechanics-night-battles-design-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/378_wt_steam_raining_fire_3fa21814a3938f83849387e05b1535db_519x293_f9111c5b98f5152577c401524a6c334e.jpg",
+      "title": "Following the Roadmap: We’d like to hear your feedback on our proposed Aircraft Destruction Mechanics & Night Battles design",
+      "description": "In today’s article, we’ll be discussing two mechanics that we’d like your feedback on: improved aircraft target hit alerts and night battles. Our proposed designs are not final, as we’re explaining them to you so that we can get your feedback to make adjustments if necessary. Let’s dive into the details!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8515-development-vickers-mk11-the-wheeled-behemoth-en",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_vickers_mk_11_39ff5490320a117acbd532afeb27db37_519x293_2aef8773ddf7d0d5b80c2cc194a48bb8.jpg",
       "title": "Vickers Mk.11: The Wheeled Behemoth",
       "description": "The Vickers Mk.11 is a prototype wheeled combat vehicle developed by British company Vickers as part of a private venture in response to an Australian requirement in the 1990s, this vehicle will arrive in the game with the next War Thunder update!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8492-development-tokushu-heiki-ki-48-ii-otsu-ki-148-missile-en",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/anons_378_ki_48_2_otsu_1b8e9d4cc2c854350718397569b1664d_519x293_1e1e7679d7e843f2e0e2af72bbeb3973.jpg",
       "title": "Tokushu Heiki: Ki-48-II Otsu & Ki-148 Missile",
       "description": "The Ki-48-II is a late modification of the prolific Japanese Ki-48 light bomber, more commonly known under the allied reporting name of \"Lily\". During the tail end of the war, this aircraft was specifically used as a testbed for an experimental guided missile. Soon you’ll be able to obtain this aircraft along with its unique weaponry by taking part in the upcoming Tokushu Heiki crafting event!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8491-development-tokushu-heiki-losat-en",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_losat_ccv_fcca5f93cdcc9f446712d9cbe0b09fa7_519x293_49f63bd109d37f92b2ddaf8934fe8703.jpg",
-      "title": "Tokushu Heiki: LOSAT",
-      "description": "Ever heard of an ATGM that doesn’t use a shaped charge? Well meet the American LOSAT tank destroyer — equipped with guided missiles that feature a kinetic penetrator!"
     }
   },
   "events": {
