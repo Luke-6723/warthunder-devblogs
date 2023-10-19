@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8526-development-battle-pass-vehicles-breda-9053-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_breda_52_autocannone_338a090f74ea9b70b58e4e04051d8daf_519x293_46fb7fb7cae273cbff0a510429d991ca.jpg",
+      "title": "Battle pass vehicles: Breda 90/53",
+      "description": "This Italian 90/53 self-propelled gun on a wheeled Breda 52 truck will soon arrive to War Thunder as one of the main prizes in the upcoming Battle pass season “Tropical Storm”!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8522-development-battle-pass-vehicles-hms-gay-archer-en",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Navy/_thumbs/519x293/anons_gay_class_archer_56b61867244a6a22dee354b06e2ebf8b_519x293_13646e2f27948748ff334861e6b47180.jpg",
       "title": "Battle pass vehicles: HMS Gay Archer",
       "description": "The British Gay Archer torpedo boat will appear in the game as one of the top prizes in the new season of the War Thunder Battle Pass, named “Tropical Storm”!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8521-development-pre-order-battleships-hms-iron-duke-and-ijn-yamashiro-en",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Navy/_thumbs/519x293/378x213_yama_duke_preorder_9ae55530f29e8ac69adb8a2b5eaca1fe_519x293_e8c47e946d55c1333092849345572525.jpg",
       "title": "Battleships HMS Iron Duke and IJN Yamashiro!",
       "description": "Welcome to two new pre-order packs that contain special pre-order bonuses and the following battleships: HMS Iron Duke for Great Britain and IJN Yamashiro for Japan!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8520-roadmapdevelopment-following-the-roadmap-wed-like-to-hear-your-feedback-on-our-proposed-aircraft-destruction-mechanics-night-battles-design-en",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/378_wt_steam_raining_fire_3fa21814a3938f83849387e05b1535db_519x293_f9111c5b98f5152577c401524a6c334e.jpg",
-      "title": "Following the Roadmap: We’d like to hear your feedback on our proposed Aircraft Destruction Mechanics & Night Battles design",
-      "description": "In today’s article, we’ll be discussing two mechanics that we’d like your feedback on: improved aircraft target hit alerts and night battles. Our proposed designs are not final, as we’re explaining them to you so that we can get your feedback to make adjustments if necessary. Let’s dive into the details!"
     }
   },
   "events": {
