@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8533-development-battle-pass-vehicles-strikemaster-mk88-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/anons_378_strikemaster_mk88_186d2c8ed838e4f9227f6ff73bc27ede_519x293_0d9127f3ba10ed8383479a943b463959.jpg",
+      "title": "Battle pass vehicles: Strikemaster Mk.88",
+      "description": "Welcome to the main aviation prize of the upcoming season of the War Thunder Battle pass called “Tropical Storm”, the Strikemaster Mk.88 strike jet aircraft!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8529-development-tan-sam-1c-vital-air-defense-en",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_type_81_tansam_ea7731cd981b14ca280a61e25ecac16d_519x293_a74e1b8eee8d39aa031028bfb6d38509.jpg",
       "title": "TAN-SAM-1C: Vital Air Defense",
       "description": "The TAN-SAM-1C is the result of an effort to develop a modern, missile-based anti-air system for the JSDF which up until then primarily relied on conventional weaponry. Arriving to top rank battles as part of the upcoming “Kings of Battle” major update, the TAN-SAM-1C will reinforce the Japanese SPAA line with a highly capable new SAM system!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8526-development-battle-pass-vehicles-breda-9053-en",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_breda_52_autocannone_338a090f74ea9b70b58e4e04051d8daf_519x293_46fb7fb7cae273cbff0a510429d991ca.jpg",
       "title": "Battle pass vehicles: Breda 90/53",
       "description": "This Italian 90/53 self-propelled gun on a wheeled Breda 52 truck will soon arrive to War Thunder as one of the main prizes in the upcoming Battle pass season “Tropical Storm”!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8522-development-battle-pass-vehicles-hms-gay-archer-en",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Navy/_thumbs/519x293/anons_gay_class_archer_56b61867244a6a22dee354b06e2ebf8b_519x293_13646e2f27948748ff334861e6b47180.jpg",
-      "title": "Battle pass vehicles: HMS Gay Archer",
-      "description": "The British Gay Archer torpedo boat will appear in the game as one of the top prizes in the new season of the War Thunder Battle Pass, named “Tropical Storm”!"
     }
   },
   "events": {
