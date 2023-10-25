@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8539-development-optical-contrast-mode-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/Su_25_Anons_8d68139d19f4203a24890424b2b0e188_519x293_bbba86036b569cf83baf46b83f309a97.jpg",
+      "title": "Optical Contrast Mode",
+      "description": "As we mentioned in the TAN-SAM-1C dev blog, we’d like to talk about photocontrast mode! This means today we’ll be talking in detail about some of the upcoming improvements to IR missile functionality in War Thunder and what this means for IR missile gameplay."
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8538-development-flanders-a-new-ground-location-with-a-new-format-en",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Locations/_thumbs/519x293/flanders_1_378_a940361b410e57763cc7b08bd75df195_519x293_acd3d3dc1f26dbcd6c42008334c77cb0.jpg",
       "title": "Flanders: A New Ground Location With A New Format!",
       "description": "In the “Kings of Battle” major update, we’ll be introducing a new location for ground battles: Flanders! This location is special — it’ll be the first in the game where the landscape adapts to the era of vehicles that are participating in the battle. Let’s dive into the details!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8537-development-m109-the-king-of-battle-en",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_m109_5c0349bae1952a93e358715f8ecb2207_519x293_3b82c231dd2bfd90355e4373563d05a2.jpg",
       "title": "M109: The King of Battle",
       "description": "The M109 is an American Cold War era SPH, developed during the early 1950s as a replacement for outdated postwar designs. The anticipated M109 will arrive to War Thunder as part of the upcoming “Kings of Battle” major update!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8531-development-ah-129d-mangusta-spiked-up-mongoose-en",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Helicopter/_thumbs/519x293/anons_378_a_129_b_e937ee2b1984c5ad364a020c9464825a_519x293_ed6d8cb861913c55fdf73e7ed692e496.jpg",
-      "title": "AH-129D Mangusta: Spiked Up Mongoose",
-      "description": "The AH-129D is the penultimate variant of the Italian Mangusta attack helicopter, originally introduced during the 1990s. Featuring enhanced firepower, the AH-129D will soon join the top rank of the Italian helicopter tree in the next major update “Kings of Battle”!"
     }
   },
   "events": {
