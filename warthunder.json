@@ -42,19 +42,19 @@
   "changelogs": {
     "0": {
       "link": "https://warthunder.com/en/game/changelog/current/1536",
-      "banner": "",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/anons_378_sons_of_attila_mi_8_to_55_logo_eng_24ad015cb83e1058ab658f046e331492.jpg",
       "title": "War Thunder \"Sons of Attila\" - Changelog",
       "description": "A vast amount of vehicles, fixes and anticipated Roadmap additions have now been implemented! Flagship jets: F-16C Block 50, Barak II and MiG-29SMT, plus jets for other nations. Italy has gained the Hungarian branch, which includes 11 ground vehicles starting from the Csaba and ending at the KF41, as well as 3 helicopters. The first South Korean vehicle, the VIDAR — which arrives as an export variant used by Norway — also comes to the Swedish tree! The visual effects of wind, smoke and ammo detonations plus more have also been improved, as well as a rank VI Bluewater and 3 premium Battleships have arrived. Two new maps, including the return of “Test Site — 2271”, are also here."
     },
     "1": {
       "link": "https://warthunder.com/en/game/changelog/current/1550",
-      "banner": "",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/centurion_shot_kal_xbox_378_3d26403500fdaf151f7c25f61c8597c8.jpg",
       "title": "Server Update 18.10.2023",
       "description": "The planned Battle Rating changes and other balancing changes in this spreadsheet have been implemented."
     },
     "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1549",
-      "banner": "",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/378_a_10a_early_b6e9e2b7dfed0f29d444dbc148ba216c.jpg",
       "title": "Update 2.29.0.101",
       "description": "A bug that caused some marketplace camos to not be visible to other players in battle has been fixed."
     }
