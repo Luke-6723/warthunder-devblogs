@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8546-development-jh-7a-the-flying-leopard-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/anons_jh_7a_e7b88b70f34cf55d371b997bb6554c93_519x293_45b2cc1ad4bb133f5d77b1ecabe15943.jpg",
+      "title": "JH-7A: The Flying Leopard!",
+      "description": "The Chinese aviation research tree will receive the outstanding JH-7A jet-bomber, which features advanced avionics and excellent ordnance capabilities, enough to strike fear into any enemy it encounters!"
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8545-development-f-111a-aardvark-the-ultimate-bomber-en",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/anons_378_f_111a_067c38737e49cbf09354cb487169424c_519x293_17348d9bfc7b0f81df3705a53e59f7da.jpg",
       "title": "F-111A Aardvark: The Ultimate Bomber!",
       "description": "An incredible jet strike-aircraft with the largest payload weight in the game arrives in War Thunder as part of the “Kings of Battle” major update!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8543-development-object-775-the-flattened-pancake-en",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/anons_object_775_3bc27c0a8f079cbc18907d28a77e910a_519x293_5ac523b37fdd6553a1814715a21b3955.jpg",
       "title": "Object 775: The Flattened Pancake",
       "description": "This Soviet experimental missile tank featuring a 125mm gun-launcher is coming to War Thunder as part of the upcoming “Kings of Battle” major update!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8539-development-optical-contrast-mode-en",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/Su_25_Anons_8d68139d19f4203a24890424b2b0e188_519x293_bbba86036b569cf83baf46b83f309a97.jpg",
-      "title": "Optical Contrast Mode",
-      "description": "As we mentioned in the TAN-SAM-1C dev blog, we’d like to talk about photocontrast mode! This means today we’ll be talking in detail about some of the upcoming improvements to IR missile functionality in War Thunder and what this means for IR missile gameplay."
     }
   },
   "events": {
