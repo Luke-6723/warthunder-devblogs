@@ -1,42 +1,42 @@
 {
   "devblogs": {
     "0": {
-      "link": "https://warthunder.com/en/news/8561-development-new-features-mechanics-in-kings-of-battle-en",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/378_leopard_2a4_63ce7a8039c54a1d4d21f4a8e3b11e9e_519x293_09abbe318d046affa9b6bb3911af68d9.jpg",
-      "title": "New Features & Mechanics In Kings of Battle!",
-      "description": "While you’re waiting for the Kings of Battle major update to install, we’re going to be talking about some of the new features and mechanics that have arrived alongside this update that you might have missed. Let’s take a look!"
+      "link": "https://warthunder.com/en/news/8630-development-m1a2-sep-v2-tusk-ii-american-cataphract-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_m1a2_sep2_1789b20fc73dabb7f8e872900b412720_519x293_8ddf15317081d93efec15b1e05a929bf.jpg",
+      "title": "M1A2 SEP V2 TUSK II: American Cataphract",
+      "description": "Say hello to this new American MBT which is the modern version of the acclaimed Abrams that features additional armor for urban environments as well as modern electronics. Today, we’ll be telling you all about what this MBT has to offer you when it arrives at Rank VIII of USA’s ground forces tree in the next major update, “Air Superiority”!"
     },
     "1": {
-      "link": "https://warthunder.com/en/news/8560-development-rn-conte-di-cavour-a-challenge-for-the-bravest-en",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Navy/_thumbs/519x293/anons_378_battleship_conte_di_cavour_07aa6fcb93a28c19caa3ae0973402e7e_519x293_152ba91e17193cb0868089db82772196.jpg",
-      "title": "RN Conte di Cavour: A Challenge For The Bravest",
-      "description": "This new top Italian Battleship, the RN Conte di Cavour, will join the ranks of the mightiest ships within the Bluewater fleet. Meet one of the most interesting ships in the “Kings of Battle” major update!"
+      "link": "https://warthunder.com/en/news/8627-development-f-15-eagle-soaring-high-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/anons_378_f_15a_09567d2b6d0b6101d798ce719e53fd5e_519x293_d27dd201528302890b4e58409e5832f3.jpg",
+      "title": "F-15 Eagle: Soaring High!",
+      "description": "The F-15 Eagle is a dedicated American air superiority fighter developed in the aftermath of the Vietnam War and based on the experiences gained from it. Today we’ll be talking exactly how this mighty jet will be when it comes to several nations in the “Air Superiority” major update!"
     },
     "2": {
-      "link": "https://warthunder.com/en/news/8553-development-mh-60l-black-hawk-air-cavalry-en",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Helicopter/_thumbs/519x293/anons_378_mh_60l_dap_991a9a103276249d67b402ed9b0bd99a_519x293_1e8c83383ac22cbc9e9c0a1efc97d21f.jpg",
-      "title": "MH-60L Black Hawk: Air Cavalry!",
-      "description": "The Black Hawk is an American utility helicopter developed as the successor to the prolific UH-1 Huey. Arriving to the game in the upcoming War Thunder update in one of its later modifications, the MH-60L expands upon the strengths of its predecessor and will soon reinforce the American helicopter trees!"
+      "link": "https://warthunder.com/en/news/8620-development-t-90m-modernized-breakthrough-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_t_90m_2342b2a86344898981329633f97f2a98_519x293_5a0443eb413c3fa3b3682478a251bf13.jpg",
+      "title": "T-90M: Modernized Breakthrough",
+      "description": "We’re excited to be showing you one of the first brand-new Rank VIII ground vehicles coming to the game in the next major update. Say hello to the utmost modern representative of the T-90 family of MBTs created under the “Breakthrough” modernization program!"
     }
   },
   "events": {
     "0": {
+      "link": "https://warthunder.com/en/news/8602-event-pages-of-history-december-the-heroic-nurse-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/378x213_1f84cf4221632a6af662707f673017c5_519x293_9f2ccb956e5776e761713a411cfb8a97.jpg",
+      "title": "Pages of History (December): The Heroic Nurse",
+      "description": "In this month’s Pages of History, you’ll find yourself at the center of events that took place in different theaters of war. Croatia, China, the Barents Sea and even Papua New Guinea: take part in battles with vehicles that were used in these historic battles and receive prizes."
+    },
+    "1": {
       "link": "https://warthunder.com/en/news/8568-event-battle-of-the-atlantic-ships-against-submarines-en",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Navy/_thumbs/519x293/anons_378_submarine_convoy_hunting_74f6c94eb98be0ef5c2b1157b2a716b2_519x293_58d14c218945acf576c2a130daf1f49d.jpg",
       "title": "Battle of the Atlantic: Ships Against Submarines!",
       "description": "Welcome to the Battle of the Atlantic event, which pits two teams of players against each other in asymmetrical ship and submarine combat!"
     },
-    "1": {
+    "2": {
       "link": "https://warthunder.com/en/news/8557-event-dreams-come-true-tog-ii-en",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/anons_378x213_anons_tog_ii_4033cb53a8eb2521e48367c1adb52668_519x293_12f19bf14e1a0bf026075ba2b20928af.jpg",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_togii_a43f1a3438215a260bc1c5e8f5ddabda_519x293_891e4cff79d7de66e90ae7632cdd1866.jpg",
       "title": "Dreams Come True: TOG II",
       "description": "The TOG II is a British prototype super-heavy tank that was developed at the start of World War II. The TOG II was developed by “The Old Gang” — a committee set up by the same members who created tanks of the First World War. This long-awaited “land battleship” comes to War Thunder as part of the game’s 11th Anniversary. Play to get it as well as other cool prizes!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8550-event-halloween-in-war-thunder-en",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/halloween_2016_378_8cc1e12c64f9fefd7cc8f98128d7eaa7_519x293_5c1437484d8cbde616b4f838b90bc52c.jpg",
-      "title": "Halloween in War Thunder!",
-      "description": "The spOoOoky season is upon us, which means beasts of the night — black cats, bats and killer snails have arrived in War Thunder to celebrate Halloween! Participate in Halloween themed events, get unique decals and decorate your vehicles to get into the holiday spirit."
     }
   },
   "changelogs": {
@@ -47,16 +47,16 @@
       "description": "In this update, 3 formidable aircraft join the top ranks, including the F-111A which breaks records regarding its payload! Every nation in the game has received at least one ground vehicle, some of these include the M109 “King of Battle” for multiple nations, the long-awaited Type 81 (C) for Japan, the Vickers Mk.11 for Britain and the incredibly unique Object 775 for the USSR! The MH-60L DAP and Spike-capable helicopters have also arrived, and in addition to this, premium Battleships for Britain and Japan. Several new mechanics have been implemented, as well as the very interesting Flanders map, which features an all-new era adaptive format."
     },
     "1": {
-      "link": "https://warthunder.com/en/game/changelog/current/1553",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Navy/ship6_TW_Anons_a5dc94b9ee8b4d269ac3152f521f51da.jpg",
-      "title": "Update 2.31.0.21",
-      "description": "A bug that caused the mirroring of decals to not work correctly has been fixed.  (...)"
+      "link": "https://warthunder.com/en/game/changelog/current/1561",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/type10_Anons_ccad3e7c3f856e7a3e046752ba86abb1.jpg",
+      "title": "Update 2.31.1.59",
+      "description": "Priority has been added to Market camouflages when using the Auto camouflage option in battle, which depends on the type of map."
     },
     "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1552",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/mig_21_bis_lazur940_Anons_1693bb78ace0abb4a1d9f24db6b4cb0a.jpg",
-      "title": "Update 2.31.0.15",
-      "description": "MiG-21 (all variants) — the possibility to separately launch the S-24 rockets has been removed. Sources: “Aircraft MiG-21F-13 Technical Description. Book II. Armament. 1963”, “Aircraft MiG-21PFM Operating Instructions No. GK-194. Book II. Operation of armament. 1968” and “Aircraft MiG-21Bis Pilot’s Flight Operating Instructions”."
+      "link": "https://warthunder.com/en/game/changelog/current/1560",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Helicopter/art_ah_2_rooivalk_940_Anons_4b0a88a982eda6ab24e414923ba3d42e.jpg",
+      "title": "Update 2.31.1.49",
+      "description": "Numerous bug fixes"
     }
   }
 }

@@ -81,7 +81,7 @@ function handlePosts (type, page) {
   // Start browser
   const browser = await puppeteer.launch({
     headless: "new",
-    executablePath: '/usr/bin/google-chrome-stable'
+    executablePath: '/usr/bin/chromium-browser'
   });
   // Load Devblogs
   const page = await browser.newPage();
