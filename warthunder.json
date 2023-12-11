@@ -1,22 +1,22 @@
 {
   "devblogs": {
     "0": {
+      "link": "https://warthunder.com/en/news/8607-development-strv-122b-a-tough-nut-to-crack-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_strv_122b_plus_4733efece542d0af4c4ec25ca866de00_519x293_e6502c6e01eb4d15ed5fa106291e6136.jpg",
+      "title": "Strv 122B+: A Tough Nut To Crack",
+      "description": "In today’s blog, we’re excited to be talking about the Strv 122B+, which is a prototype of Sweden’s main battle tank that features further advanced armor while retaining all of the advantages of its predecessor. Meet this new tough nut to crack being added to the game in the upcoming «Air Superiority» major update!"
+    },
+    "1": {
+      "link": "https://warthunder.com/en/news/8633-development-vt-4a1-actively-protected-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_vt_4b_05013b07accea159a87fa6b2e76f0f5c_519x293_5a37a8a83b3a56b2cc5615b4193e3456.jpg",
+      "title": "VT-4A1: Actively Protected!",
+      "description": "The VT-4A1 is the later modification of Chinese main battle tanks developed specifically for foreign operators while incorporating many cutting edge technologies from other domestic vehicles of the time. Today we’ll be talking about this tank which is arriving to War Thunder in the “Air Superiority” major update!"
+    },
+    "2": {
       "link": "https://warthunder.com/en/news/8630-development-m1a2-sep-v2-tusk-ii-american-cataphract-en",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_378_m1a2_sep2_1789b20fc73dabb7f8e872900b412720_519x293_8ddf15317081d93efec15b1e05a929bf.jpg",
       "title": "M1A2 SEP V2 TUSK II: American Cataphract",
       "description": "Say hello to this new American MBT which is the modern version of the acclaimed Abrams that features additional armor for urban environments as well as modern electronics. Today, we’ll be telling you all about what this MBT has to offer you when it arrives at Rank VIII of USA’s ground forces tree in the next major update, “Air Superiority”!"
-    },
-    "1": {
-      "link": "https://warthunder.com/en/news/8627-development-f-15-eagle-soaring-high-en",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/_thumbs/519x293/anons_378_f_15a_09567d2b6d0b6101d798ce719e53fd5e_519x293_d27dd201528302890b4e58409e5832f3.jpg",
-      "title": "F-15 Eagle: Soaring High!",
-      "description": "The F-15 Eagle is a dedicated American air superiority fighter developed in the aftermath of the Vietnam War and based on the experiences gained from it. Today we’ll be talking exactly how this mighty jet will be when it comes to several nations in the “Air Superiority” major update!"
-    },
-    "2": {
-      "link": "https://warthunder.com/en/news/8620-development-t-90m-modernized-breakthrough-en",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/anons_t_90m_2342b2a86344898981329633f97f2a98_519x293_5a0443eb413c3fa3b3682478a251bf13.jpg",
-      "title": "T-90M: Modernized Breakthrough",
-      "description": "We’re excited to be showing you one of the first brand-new Rank VIII ground vehicles coming to the game in the next major update. Say hello to the utmost modern representative of the T-90 family of MBTs created under the “Breakthrough” modernization program!"
     }
   },
   "events": {
