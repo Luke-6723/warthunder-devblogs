@@ -1,0 +1,62 @@
+{
+  "devblogs": {
+    "0": {
+      "link": "https://warthunder.com/en/news/8675-development-hull-armor-of-the-m1-abrams-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/_thumbs/519x293/m1a1_hc_abrams_1080p_Anons_840acce97441e4b9149d5d017c38a028_519x293_c67234abef036aeba16a69c7a9aa35b4.jpg",
+      "title": "Hull Armor of the M1 Abrams",
+      "description": "We’ve seen a lot of topics regarding the armor of the Abrams series of tanks, more specifically the presence of DU (depleted uranium) armor, and so we’d like to share our data on the subject."
+    },
+    "1": {
+      "link": "https://warthunder.com/en/news/8673-development-answering-your-concerns-regarding-spall-liners-mbts-and-aircraft-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/answers_developers__251a73f2f5c547c12a255cb66d6736ae_519x293_a7a6e94f6295e7b5013ac87fea2b1b3e.jpg",
+      "title": "Answering your concerns regarding spall liners, MBTs and Aircraft",
+      "description": "Hello everyone. We’ve noticed that many of you had questions regarding spall liners on tanks and armor in general. To avoid any misunderstandings, we’d like to briefly answer some of these elements below."
+    },
+    "2": {
+      "link": "https://warthunder.com/en/news/8671-development-collecting-your-ideas-for-the-2024-roadmap-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/blueprint_378_f66cc92010f800cd2135bf2a8913e452_519x293_4fb66ac4b35b81a56640f41ef3c752be.jpg",
+      "title": "Collecting Your Ideas for the 2024 Roadmap",
+      "description": "As previously announced, today we’re inviting you to help us create an interesting list of features and improvements for War Thunder that you’d like to see."
+    }
+  },
+  "events": {
+    "0": {
+      "link": "https://warthunder.com/en/news/8667-event-celebrate-christmas-and-the-new-year-in-war-thunder-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/anons_378_ny_2024_bca5412aed503e3ab23c2ca09ee8e799_519x293_c2c05fb240ea74c0bdd60e1da2e581b8.jpg",
+      "title": "Celebrate Christmas and the New Year in War Thunder!",
+      "description": "We’re nearing the end of December now, which means it’s time for gifts, bright decorations, fireworks and generally a jolly festive mood. All of which await you this Christmas and New Year’s period!"
+    },
+    "1": {
+      "link": "https://warthunder.com/en/news/8644-event-winter-extreme-earn-yourself-rewards-this-festive-season-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/anons_378_winter_marathon_2024_48f691c488d47bb1bca569bef738b688_519x293_a4ace9152664085e944dd18238ffd35b.jpg",
+      "title": "Winter Extreme: Earn Yourself Rewards this Festive Season!",
+      "description": "Winter is in full swing, it’s time to warm up and settle down for a brand new Winter Extreme in War Thunder! To brighten up your long dark evenings, we’ve prepared a heap of prizes for you that can be unlocked just by playing — all you need is to do your best in random battles and earn mission score!"
+    },
+    "2": {
+      "link": "https://warthunder.com/en/news/8602-event-pages-of-history-december-the-heroic-nurse-en",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/_thumbs/519x293/378x213_1f84cf4221632a6af662707f673017c5_519x293_9f2ccb956e5776e761713a411cfb8a97.jpg",
+      "title": "Pages of History (December): The Heroic Nurse",
+      "description": "In this month’s Pages of History, you’ll find yourself at the center of events that took place in different theaters of war. Croatia, China, the Barents Sea and even Papua New Guinea: take part in battles with vehicles that were used in these historic battles and receive prizes."
+    }
+  },
+  "changelogs": {
+    "0": {
+      "link": "https://warthunder.com/en/game/changelog/current/1562",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Other/anons_378_air_superiority_jas39_logo_573ed655de7a42741e7e5badba36b324.jpg",
+      "title": "War Thunder \"Air Superiority\" - Changelog",
+      "description": "We’re ending 2023 in style with the awesome Air Superiority major update. Top-tier jets have been added to several nations, some of which include the F-15, the Su-27 and J-11, the Mirage 4000, plus the JAS39. We’ve introduced Rank VIII for ground vehicles, and subsequently new tanks: M1A2 SEP2, Leopard 2A7V, T-90M, VT-4A1, Strv 122B+ and Challenger 3 (TD)! The USA gets the brilliant USS Roanoke and a few other ships come in for other nations, while Volcano Valley is here for aircraft, set in the beautiful peninsula landscapes of Russia. The ability to use universal backups while in battle and tutorial missions for using aircraft missiles have also been added, and we’ve reworked all types of fire graphics for vehicles and burning buildings to make them look better in general."
+    },
+    "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1570",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/xbox_378_a_5c_fed612fc78af1dc714dfd65715ab145c.jpg",
+      "title": "Update 2.33.0.42",
+      "description": "An FPS drop on certain locations while controlling UAV or aircraft in tank battles has been fixed."
+    },
+    "2": {
+      "link": "https://warthunder.com/en/game/changelog/current/1569",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/saab_j32b_Anons_e9d0f54fe68e339913554ea4c72a2e89.jpg",
+      "title": "Update 2.33.0.39",
+      "description": "Overly bright effects in overcast weather have been fixed. (...)"
+    }
+  }
+}
