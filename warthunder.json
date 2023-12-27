@@ -47,16 +47,16 @@
       "description": "We’re ending 2023 in style with the awesome Air Superiority major update. Top-tier jets have been added to several nations, some of which include the F-15, the Su-27 and J-11, the Mirage 4000, plus the JAS39. We’ve introduced Rank VIII for ground vehicles, and subsequently new tanks: M1A2 SEP2, Leopard 2A7V, T-90M, VT-4A1, Strv 122B+ and Challenger 3 (TD)! The USA gets the brilliant USS Roanoke and a few other ships come in for other nations, while Volcano Valley is here for aircraft, set in the beautiful peninsula landscapes of Russia. The ability to use universal backups while in battle and tutorial missions for using aircraft missiles have also been added, and we’ve reworked all types of fire graphics for vehicles and burning buildings to make them look better in general."
     },
     "1": {
+      "link": "https://warthunder.com/en/game/changelog/current/1571",
+      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Ground/italy_ground_newmodificationresearch378_213_6639414414e610f4bb19c1d44f7aee36.jpg",
+      "title": "Update 2.33.0.50",
+      "description": "The sounds of ATGMs and unguided rockets flying past the player have been adjusted so that they sound less like jet aircraft flying over, and also sound more distinctive. (...)"
+    },
+    "2": {
       "link": "https://warthunder.com/en/game/changelog/current/1570",
       "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/xbox_378_a_5c_fed612fc78af1dc714dfd65715ab145c.jpg",
       "title": "Update 2.33.0.42",
       "description": "An FPS drop on certain locations while controlling UAV or aircraft in tank battles has been fixed."
-    },
-    "2": {
-      "link": "https://warthunder.com/en/game/changelog/current/1569",
-      "banner": "https://staticfiles.warthunder.com/upload/image/0_2022_Anons/Aircraft/saab_j32b_Anons_e9d0f54fe68e339913554ea4c72a2e89.jpg",
-      "title": "Update 2.33.0.39",
-      "description": "Overly bright effects in overcast weather have been fixed. (...)"
     }
   }
 }
